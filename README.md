@@ -139,6 +139,7 @@
 
 ## Go 
 
+- [marevers/pleasant-cli](https://github.com/marevers/pleasant-cli) - A command line interface for Pleasant Password Server
 - [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [fnproject/fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
