@@ -157,7 +157,7 @@
 ## database 
 
 - [HypoPG/hypopg](https://github.com/HypoPG/hypopg) - Hypothetical Indexes for PostgreSQL
-- [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file - https://www.litedb.org
+- [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 
 ## deployment 
 
@@ -182,7 +182,7 @@
 ## dotnet 
 
 - [unosquare/embedio](https://github.com/unosquare/embedio) - A tiny, cross-platform, module based web server for .NET
-- [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file - https://www.litedb.org
+- [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 - [mono/SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models t
 - [DecaTec/Portable-WebDAV-Library](https://github.com/DecaTec/Portable-WebDAV-Library) - Moved to codeberg.org - https://codeberg.org/DecaTec/Portable-WebDAV-Library - The Portable WebDAV Library is a strongly typed, async WebDAV client library which is fully compliant to RFC 4918, RFC 43
 - [xunit/xunit](https://github.com/xunit/xunit) - xUnit.net is a free, open source, community-focused unit testing tool for .NET.
@@ -331,7 +331,7 @@
 
 ## nosql 
 
-- [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file - https://www.litedb.org
+- [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 
 ## open-source 
 
@@ -363,7 +363,7 @@
 - [microsoft/Intune-PowerShell-SDK](https://github.com/microsoft/Intune-PowerShell-SDK) - Native PowerShell support for invoking Microsoft Intune Graph API to enable IT Pro scenario automation.
 - [GossiTheDog/SystemNightmare](https://github.com/GossiTheDog/SystemNightmare) - Gives you instant SYSTEM command prompt on all supported and legacy versions of Windows
 - [microsoft/CSS-Exchange](https://github.com/microsoft/CSS-Exchange) - Exchange Server support tools and scripts
-- [m5stack/M5StickC-Plus](https://github.com/m5stack/M5StickC-Plus) - M5Stack Arduino Library
+- [m5stack/M5StickC-Plus](https://github.com/m5stack/M5StickC-Plus) - M5StickCPlus Arduino Library
 - [SunboX/PixelChaser](https://github.com/SunboX/PixelChaser) - 
 - [dirkjanm/CVE-2020-1472](https://github.com/dirkjanm/CVE-2020-1472) - PoC for Zerologon - all research credits go to Tom Tervoort of Secura
 - [kayrus/iradio](https://github.com/kayrus/iradio) - Information about the firmware inside Internet Radio (Conrad's renkforce IR 1)
