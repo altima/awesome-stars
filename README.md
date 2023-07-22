@@ -39,7 +39,7 @@
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [Yokohama-Miyazawa/RussianRomanizer](https://github.com/Yokohama-Miyazawa/RussianRomanizer) - Arduino, M5Stackでロシア語をラテン文字表記化するプログラム。 Converting Russian text into Latin alphabet notation on Arduino, M5Stack and M5StickC.
 - [chrta/nachtabsenkung_trimatik](https://github.com/chrta/nachtabsenkung_trimatik) - Schaltplan und Firmware einer analogen Fernbedienung zur Nachtabsenkung fuer eine alte Viessmann Trimatik Heizungssteuerung
-- [m5stack/M5StickC-Plus](https://github.com/m5stack/M5StickC-Plus) - M5Stack Arduino Library
+- [m5stack/M5StickC-Plus](https://github.com/m5stack/M5StickC-Plus) - M5StickCPlus Arduino Library
 - [kayrus/iradio](https://github.com/kayrus/iradio) - Information about the firmware inside Internet Radio (Conrad's renkforce IR 1)
 - [HypoPG/hypopg](https://github.com/HypoPG/hypopg) - Hypothetical Indexes for PostgreSQL
 - [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
@@ -59,7 +59,7 @@
 - [lprichar/UwpMessageRelay](https://github.com/lprichar/UwpMessageRelay) - A sample UWP app demonstrating how to use AppServiceConnection to do interprocess communication
 - [chkr1011/HA4IoT](https://github.com/chkr1011/HA4IoT) - Open Source Home Automation system for .NET
 - [mmbot/mmbot](https://github.com/mmbot/mmbot) - A C# port of Hubot
-- [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file - https://www.litedb.org
+- [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 - [win-acme/win-acme](https://github.com/win-acme/win-acme) - A simple ACME client for Windows (for use with Let's Encrypt et al.)
 - [michielpost/Q42.HueApi](https://github.com/michielpost/Q42.HueApi) - C# helper library to talk to the Philips Hue bridge
 - [ailen0ada/UWP.SSDP.Sample](https://github.com/ailen0ada/UWP.SSDP.Sample) - Sample application describes how to bind service and sending SSDP packet on UWP.
