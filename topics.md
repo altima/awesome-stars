@@ -9,6 +9,7 @@
 - [ansible](#ansible)
 - [api](#api)
 - [arduino](#arduino)
+- [automation](#automation)
 - [aws](#aws)
 - [azure](#azure)
 - [bash](#bash)
@@ -55,9 +56,11 @@
 - [monitoring](#monitoring)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
+- [npm](#npm)
 - [open-source](#open-source)
 - [osint](#osint)
 - [others](#others)
+- [package-manager](#package-manager)
 - [penetration-testing](#penetration-testing)
 - [php](#php)
 - [postgresql](#postgresql)
@@ -100,12 +103,17 @@
 - [xfjx/TonUINO](https://github.com/xfjx/TonUINO) - Die DIY Musikbox (nicht nur) für Kinder
 - [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
 
+## automation 
+
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 500+ useful cross-platform PowerShell scripts.
+
 ## aws 
 
 - [chrisipa/cloud-portal](https://github.com/chrisipa/cloud-portal) - Self service web portal for different Cloud platforms like Azure, AWS and VMWare vSphere.
 
 ## azure 
 
+- [tomwechsler/Azure_Fundamentals_AZ-900](https://github.com/tomwechsler/Azure_Fundamentals_AZ-900) - This repo is all about Azure Fundamentals AZ-900 exam preparation.
 - [chrisipa/cloud-portal](https://github.com/chrisipa/cloud-portal) - Self service web portal for different Cloud platforms like Azure, AWS and VMWare vSphere.
 - [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
 
@@ -128,6 +136,7 @@
 
 ## cli 
 
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [win-acme/win-acme](https://github.com/win-acme/win-acme) - A simple ACME client for Windows (for use with Let's Encrypt et al.)
@@ -333,6 +342,10 @@
 
 - [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 
+## npm 
+
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
+
 ## open-source 
 
 - [SAP/openui5](https://github.com/SAP/openui5) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice.
@@ -343,6 +356,11 @@
 
 ## others 
 
+- [tomwechsler/Active_Directory_Manage_with_PowerShell](https://github.com/tomwechsler/Active_Directory_Manage_with_PowerShell) - That's what this repo is all about!
+- [tomwechsler/Microsoft_Endpoint_Manager](https://github.com/tomwechsler/Microsoft_Endpoint_Manager) - This repo is all about Microsoft Endpoint Manager (Intune)!
+- [Mebus/cupp](https://github.com/Mebus/cupp) - Common User Passwords Profiler (CUPP)
+- [claudiospizzi/SecurityFever](https://github.com/claudiospizzi/SecurityFever) - PowerShell Module with custom functions and cmdlets related to Windows and application security.
+- [techspence/ScriptSentry](https://github.com/techspence/ScriptSentry) - ScriptSentry finds misconfigured and dangerous logon scripts.
 - [marevers/pleasant-cli](https://github.com/marevers/pleasant-cli) - A command line interface for Pleasant Password Server
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [nkizz/mop3](https://github.com/nkizz/mop3) - A Mastodon to POP3 Gateway
@@ -479,6 +497,10 @@
 - [facebookarchive/cassandra](https://github.com/facebookarchive/cassandra) - A distributed storage system for managing structured data while providing reliability at scale.
 - [jmathai/epiphany](https://github.com/jmathai/epiphany) - A micro PHP framework that's fast, easy, clean and RESTful. The framework does not do a lot of magic under the hood. It is, by design, very simple and very powerful.
 
+## package-manager 
+
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
+
 ## penetration-testing 
 
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
@@ -494,6 +516,7 @@
 
 ## powershell 
 
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 500+ useful cross-platform PowerShell scripts.
 - [nicolonsky/Techblog](https://github.com/nicolonsky/Techblog) - PowerShell scripts and content mentioned on my techblog
 - [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
@@ -571,6 +594,7 @@
 
 ## windows 
 
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [microsoft/Git-Credential-Manager-for-Windows](https://github.com/microsoft/Git-Credential-Manager-for-Windows) - Secure Git credential storage for Windows with support for Visual Studio Team Services, GitHub, and Bitbucket multi-factor authentication.
 - [win-acme/win-acme](https://github.com/win-acme/win-acme) - A simple ACME client for Windows (for use with Let's Encrypt et al.)
 - [mono/SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models t
