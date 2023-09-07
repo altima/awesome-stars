@@ -35,6 +35,7 @@
 
 ## C 
 
+- [culturally/flipper-zero-airtag](https://github.com/culturally/flipper-zero-airtag) - Spoof Flipper Zero as AirTag
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [Yokohama-Miyazawa/RussianRomanizer](https://github.com/Yokohama-Miyazawa/RussianRomanizer) - Arduino, M5Stackでロシア語をラテン文字表記化するプログラム。 Converting Russian text into Latin alphabet notation on Arduino, M5Stack and M5StickC.
