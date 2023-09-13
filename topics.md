@@ -105,7 +105,7 @@
 
 ## automation 
 
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 500+ useful cross-platform PowerShell scripts.
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 500+ useful cross-platform PowerShell scripts (.ps1).
 
 ## aws 
 
@@ -517,7 +517,7 @@
 
 ## powershell 
 
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 500+ useful cross-platform PowerShell scripts.
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 500+ useful cross-platform PowerShell scripts (.ps1).
 - [nicolonsky/Techblog](https://github.com/nicolonsky/Techblog) - PowerShell scripts and content mentioned on my techblog
 - [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
