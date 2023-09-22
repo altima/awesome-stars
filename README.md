@@ -180,7 +180,6 @@
 - [dweinstein/node-google-play](https://github.com/dweinstein/node-google-play) - Get details and download apps from https://play.google.com by emulating an Android (Nexus 5X) device by default. For a rust version of this library check out https://github.com/dweinstein/rs-google-pl
 - [AppWerft/Freifunker](https://github.com/AppWerft/Freifunker) - This is repo for freifunker App.
 - [ekristen/dns-proxy](https://github.com/ekristen/dns-proxy) - Simple DNS Proxy written in Node.JS. Override hosts, domains, or tlds. Redirect certain domains to different nameservers.
-- [FreifunkVogtland/ffv-meshviewer-config](https://github.com/FreifunkVogtland/ffv-meshviewer-config) - Configuration file for the FFV Mesh-Viewer
 - [Yaffle/EventSource](https://github.com/Yaffle/EventSource) - a polyfill for http://www.w3.org/TR/eventsource/
 - [freifunk-darmstadt/gluon-firmware-selector](https://github.com/freifunk-darmstadt/gluon-firmware-selector) - Firmware selector for gluon router images
 - [cdsanchez/SimpleWorker](https://github.com/cdsanchez/SimpleWorker) - Inline web workers + promises.
@@ -214,6 +213,7 @@
 - [logickworkshop/Flipper-IRDB](https://github.com/logickworkshop/Flipper-IRDB) - A collective of different IRs for the Flipper
 - [danopstech/starlink](https://github.com/danopstech/starlink) - 📈 Starlink Monitoring System. Measuring the performance of your Starlink internet connection
 - [brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
+- [FreifunkVogtland/ffv-meshviewer-config](https://github.com/FreifunkVogtland/ffv-meshviewer-config) - Configuration file for the FFV Mesh-Viewer
 - [FreifunkVogtland/blog-content](https://github.com/FreifunkVogtland/blog-content) - 
 - [FreifunkVogtland/dns-static](https://github.com/FreifunkVogtland/dns-static) - DNS-Entries for *.ffv
 - [rstropek/basta-spring-2016](https://github.com/rstropek/basta-spring-2016) - Slides for BASTA Spring 2016 Conference
