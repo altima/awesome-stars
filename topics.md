@@ -235,6 +235,7 @@
 
 ## hacking 
 
+- [D3Ext/AORT](https://github.com/D3Ext/AORT) - All in One Recon Tool for Bug Bounty
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
 
@@ -352,6 +353,7 @@
 
 ## osint 
 
+- [D3Ext/AORT](https://github.com/D3Ext/AORT) - All in One Recon Tool for Bug Bounty
 - [michenriksen/gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
 
 ## others 
@@ -504,6 +506,7 @@
 
 ## penetration-testing 
 
+- [D3Ext/AORT](https://github.com/D3Ext/AORT) - All in One Recon Tool for Bug Bounty
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
 ## php 
@@ -534,6 +537,7 @@
 
 ## python3 
 
+- [D3Ext/AORT](https://github.com/D3Ext/AORT) - All in One Recon Tool for Bug Bounty
 - [yuppity/unifi-video-api](https://github.com/yuppity/unifi-video-api) - Python API for UniFi Video
 
 ## raspberry-pi 
@@ -547,6 +551,7 @@
 
 ## security 
 
+- [D3Ext/AORT](https://github.com/D3Ext/AORT) - All in One Recon Tool for Bug Bounty
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [BSI-Bund/RdpCacheStitcher](https://github.com/BSI-Bund/RdpCacheStitcher) - RdpCacheStitcher is a tool that supports forensic analysts in reconstructing useful images out of RDP cache bitmaps.
 - [nabla-c0d3/sslyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS scanning library.
