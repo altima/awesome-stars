@@ -359,6 +359,7 @@
 
 ## others 
 
+- [MattHodge/ansible-docker](https://github.com/MattHodge/ansible-docker) - Docker Container for running Ansible with support for WinRM
 - [culturally/flipper-zero-airtag](https://github.com/culturally/flipper-zero-airtag) - Spoof Flipper Zero as AirTag
 - [tomwechsler/Active_Directory_Manage_with_PowerShell](https://github.com/tomwechsler/Active_Directory_Manage_with_PowerShell) - That's what this repo is all about!
 - [tomwechsler/Microsoft_Endpoint_Manager](https://github.com/tomwechsler/Microsoft_Endpoint_Manager) - This repo is all about Microsoft Endpoint Manager (Intune)!
