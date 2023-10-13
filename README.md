@@ -255,7 +255,6 @@
 
 ## Python 
 
-- [D3Ext/AORT](https://github.com/D3Ext/AORT) - All in One Recon Tool for Bug Bounty
 - [Mebus/cupp](https://github.com/Mebus/cupp) - Common User Passwords Profiler (CUPP)
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [jczic/MicroWebSrv](https://github.com/jczic/MicroWebSrv) - A micro HTTP Web server that supports WebSockets, html/python language templating and routing handlers, for MicroPython (used on Pycom modules & ESP32)
