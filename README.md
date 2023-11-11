@@ -209,6 +209,7 @@
 
 ## Others 
 
+- [ForceFledgling/CVE-2023-22518](https://github.com/ForceFledgling/CVE-2023-22518) - Improper Authorization Vulnerability in Confluence Data Center and Server
 - [tomwechsler/Azure_Fundamentals_AZ-900](https://github.com/tomwechsler/Azure_Fundamentals_AZ-900) - This repo is all about Azure Fundamentals AZ-900 exam preparation.
 - [sasiplavnik/Flipper-IRDB](https://github.com/sasiplavnik/Flipper-IRDB) - 
 - [logickworkshop/Flipper-IRDB](https://github.com/logickworkshop/Flipper-IRDB) - A collective of different IRs for the Flipper
