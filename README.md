@@ -209,7 +209,6 @@
 
 ## Others 
 
-- [ForceFledgling/CVE-2023-22518](https://github.com/ForceFledgling/CVE-2023-22518) - Improper Authorization Vulnerability in Confluence Data Center and Server
 - [tomwechsler/Azure_Fundamentals_AZ-900](https://github.com/tomwechsler/Azure_Fundamentals_AZ-900) - This repo is all about Azure Fundamentals AZ-900 exam preparation.
 - [sasiplavnik/Flipper-IRDB](https://github.com/sasiplavnik/Flipper-IRDB) - 
 - [logickworkshop/Flipper-IRDB](https://github.com/logickworkshop/Flipper-IRDB) - A collective of different IRs for the Flipper
@@ -256,6 +255,7 @@
 
 ## Python 
 
+- [ForceFledgling/CVE-2023-22518](https://github.com/ForceFledgling/CVE-2023-22518) - Improper Authorization Vulnerability in Confluence Data Center and Server + bonus 🔥
 - [Mebus/cupp](https://github.com/Mebus/cupp) - Common User Passwords Profiler (CUPP)
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [jczic/MicroWebSrv](https://github.com/jczic/MicroWebSrv) - A micro HTTP Web server that supports WebSockets, html/python language templating and routing handlers, for MicroPython (used on Pycom modules & ESP32)
