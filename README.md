@@ -17,6 +17,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -202,6 +203,10 @@
 ## Jupyter Notebook 
 
 - [unsplash/datasets](https://github.com/unsplash/datasets) - 🎁  4,800,000+ Unsplash images made available for research and machine learning
+
+## Kotlin 
+
+- [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) - 
 
 ## Objective-C 
 
