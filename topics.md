@@ -425,7 +425,7 @@
 - [cdsanchez/SimpleWorker](https://github.com/cdsanchez/SimpleWorker) - Inline web workers + promises.
 - [prawnsalad/KiwiIRC](https://github.com/prawnsalad/KiwiIRC) - This is **DEPRECATED**! Please go to https://github.com/kiwiirc/kiwiirc
 - [FreifunkVogtland/dns-static](https://github.com/FreifunkVogtland/dns-static) - DNS-Entries for *.ffv
-- [qpdf/qpdf](https://github.com/qpdf/qpdf) - Primary QPDF source code and documentation
+- [qpdf/qpdf](https://github.com/qpdf/qpdf) - QPDF: A content-preserving PDF document transformer
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [anki/cozmo-python-sdk](https://github.com/anki/cozmo-python-sdk) - Anki Cozmo Python SDK
 - [DmitryChabanin/xmpp](https://github.com/DmitryChabanin/xmpp) - An XMPP library written for .Net in C#.
