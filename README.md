@@ -251,7 +251,7 @@
 - [tomwechsler/Microsoft_Endpoint_Manager](https://github.com/tomwechsler/Microsoft_Endpoint_Manager) - This repo is all about Microsoft Endpoint Manager (Intune)!
 - [claudiospizzi/SecurityFever](https://github.com/claudiospizzi/SecurityFever) - PowerShell Module with custom functions and cmdlets related to Windows and application security.
 - [techspence/ScriptSentry](https://github.com/techspence/ScriptSentry) - ScriptSentry finds misconfigured and dangerous logon scripts.
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 500+ useful cross-platform PowerShell scripts (.ps1)
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell scripts (.ps1) for every system!
 - [dafthack/MFASweep](https://github.com/dafthack/MFASweep) - A tool for checking if MFA is enabled on multiple Microsoft Services
 - [I-Am-Jakoby/Flipper-Zero-BadUSB](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB) - Repository for my flipper zero badUSB payloads. Now almost entirely plug and play.
 - [nicolonsky/Techblog](https://github.com/nicolonsky/Techblog) - PowerShell scripts and content mentioned on my techblog
