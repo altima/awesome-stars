@@ -18,6 +18,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Lua](#lua)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -45,7 +46,6 @@
 - [kayrus/iradio](https://github.com/kayrus/iradio) - Information about the firmware inside Internet Radio (Conrad's renkforce IR 1)
 - [HypoPG/hypopg](https://github.com/HypoPG/hypopg) - Hypothetical Indexes for PostgreSQL
 - [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
-- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [Nuand/bladeRF](https://github.com/Nuand/bladeRF) - bladeRF USB 3.0 Superspeed Software Defined Radio Source Code
 - [edent/BMW-OpenSource](https://github.com/edent/BMW-OpenSource) - All the Open Source Software provided by BMW for their i3
 - [id-Software/Quake](https://github.com/id-Software/Quake) - Quake GPL Source Release
@@ -208,6 +208,10 @@
 
 - [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) - 
 
+## Lua 
+
+- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
+
 ## Objective-C 
 
 - [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash for iOS was discontinued. Please check out Dash for macOS instead.
@@ -265,7 +269,7 @@
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [jczic/MicroWebSrv](https://github.com/jczic/MicroWebSrv) - A micro HTTP Web server that supports WebSockets, html/python language templating and routing handlers, for MicroPython (used on Pycom modules & ESP32)
 - [sbcshop/EnkPi_7.5_Software](https://github.com/sbcshop/EnkPi_7.5_Software) - EnkPi is a series of 4 ePaper displays mounted on PCBs to provide sturdiness and comfort to the users. Powered with Raspberry Pi Pico W, these EnkPi boards have Partial Refresh Support with up to 170 
-- [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Notify if a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emer
+- [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Notify if a selected plane has taken off or landed using ADS-B data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and res
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) - 
 - [yuppity/unifi-video-api](https://github.com/yuppity/unifi-video-api) - Python API for UniFi Video
