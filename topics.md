@@ -52,6 +52,7 @@
 - [lua](#lua)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [microsoft](#microsoft)
 - [mobile](#mobile)
 - [monitoring](#monitoring)
 - [nodejs](#nodejs)
@@ -327,6 +328,11 @@
 
 - [mono/SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models t
 
+## microsoft 
+
+- [tomwechsler/Microsoft_Endpoint_Manager](https://github.com/tomwechsler/Microsoft_Endpoint_Manager) - This repo is all about Microsoft Endpoint Manager (Intune)!
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
 ## mobile 
 
 - [reactiveui/Fusillade](https://github.com/reactiveui/Fusillade) - An opinionated HTTP library for Mobile Development
@@ -363,7 +369,6 @@
 - [MattHodge/ansible-docker](https://github.com/MattHodge/ansible-docker) - Docker Container for running Ansible with support for WinRM
 - [culturally/flipper-zero-airtag](https://github.com/culturally/flipper-zero-airtag) - Spoof Flipper Zero as AirTag
 - [tomwechsler/Active_Directory_Manage_with_PowerShell](https://github.com/tomwechsler/Active_Directory_Manage_with_PowerShell) - That's what this repo is all about!
-- [tomwechsler/Microsoft_Endpoint_Manager](https://github.com/tomwechsler/Microsoft_Endpoint_Manager) - This repo is all about Microsoft Endpoint Manager (Intune)!
 - [Mebus/cupp](https://github.com/Mebus/cupp) - Common User Passwords Profiler (CUPP)
 - [claudiospizzi/SecurityFever](https://github.com/claudiospizzi/SecurityFever) - PowerShell Module with custom functions and cmdlets related to Windows and application security.
 - [techspence/ScriptSentry](https://github.com/techspence/ScriptSentry) - ScriptSentry finds misconfigured and dangerous logon scripts.
