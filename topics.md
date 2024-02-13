@@ -292,6 +292,7 @@
 
 ## javascript 
 
+- [datalog/qrcode-svg](https://github.com/datalog/qrcode-svg) - Pure javascript QR Code generator. Armed with elegant svg path method.
 - [ekristen/dns-proxy](https://github.com/ekristen/dns-proxy) - Simple DNS Proxy written in Node.JS. Override hosts, domains, or tlds. Redirect certain domains to different nameservers.
 - [SAP/openui5](https://github.com/SAP/openui5) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice.
 - [RainLoop/rainloop-webmail](https://github.com/RainLoop/rainloop-webmail) - Simple, modern & fast web-based email client
@@ -367,6 +368,7 @@
 
 ## others 
 
+- [science-computing/wartungsplan](https://github.com/science-computing/wartungsplan) - A tool to extract events from an ical file by day or day range and perform an action per event like sending an email or opening a ticket
 - [MattHodge/ansible-docker](https://github.com/MattHodge/ansible-docker) - Docker Container for running Ansible with support for WinRM
 - [culturally/flipper-zero-airtag](https://github.com/culturally/flipper-zero-airtag) - Spoof Flipper Zero as AirTag
 - [tomwechsler/Active_Directory_Manage_with_PowerShell](https://github.com/tomwechsler/Active_Directory_Manage_with_PowerShell) - That's what this repo is all about!
