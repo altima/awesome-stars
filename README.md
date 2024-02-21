@@ -203,7 +203,7 @@
 
 ## Jupyter Notebook 
 
-- [unsplash/datasets](https://github.com/unsplash/datasets) - 🎁  4,800,000+ Unsplash images made available for research and machine learning
+- [unsplash/datasets](https://github.com/unsplash/datasets) - 🎁  5,400,000+ Unsplash images made available for research and machine learning
 
 ## Kotlin 
 
@@ -219,6 +219,7 @@
 
 ## Others 
 
+- [nortakales/flipper-zero-tonies](https://github.com/nortakales/flipper-zero-tonies) - 
 - [tomwechsler/Azure_Fundamentals_AZ-900](https://github.com/tomwechsler/Azure_Fundamentals_AZ-900) - This repo is all about Azure Fundamentals AZ-900 exam preparation.
 - [sasiplavnik/Flipper-IRDB](https://github.com/sasiplavnik/Flipper-IRDB) - 
 - [logickworkshop/Flipper-IRDB](https://github.com/logickworkshop/Flipper-IRDB) - A collective of different IRs for the Flipper
