@@ -52,6 +52,7 @@
 
 ## C# # 
 
+- [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [microsoft/Intune-PowerShell-SDK](https://github.com/microsoft/Intune-PowerShell-SDK) - Native PowerShell support for invoking Microsoft Intune Graph API to enable IT Pro scenario automation.
 - [cefsharp/CefSharp](https://github.com/cefsharp/CefSharp) - .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
