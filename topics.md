@@ -37,6 +37,7 @@
 - [golang](#golang)
 - [google](#google)
 - [hacking](#hacking)
+- [hacking-tool](#hacking-tool)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
 - [http](#http)
@@ -242,6 +243,11 @@
 - [ForceFledgling/CVE-2023-22518](https://github.com/ForceFledgling/CVE-2023-22518) - Improper Authorization Vulnerability in Confluence Data Center and Server + bonus 🔥
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
+
+## hacking-tool 
+
+- [ForceFledgling/CVE-2023-22518](https://github.com/ForceFledgling/CVE-2023-22518) - Improper Authorization Vulnerability in Confluence Data Center and Server + bonus 🔥
+- [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com
 
 ## hacktoberfest 
 
