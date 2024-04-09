@@ -138,7 +138,7 @@
 
 - [MattHodge/ansible-docker](https://github.com/MattHodge/ansible-docker) - Docker Container for running Ansible with support for WinRM
 - [mwarning/docker-openwrt-build-env](https://github.com/mwarning/docker-openwrt-build-env) - A Docker container to build OpenWrt images
-- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes 🇺🇦🇮🇱
+- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱
 - [T0biii/gluon-docker](https://github.com/T0biii/gluon-docker) - Docker image to build firmware for the Freifunk München community. Clone from Magdeburg
 - [mono/docker](https://github.com/mono/docker) - Docker images, for the Docker container system
 
