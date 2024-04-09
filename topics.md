@@ -185,7 +185,7 @@
 
 - [mwarning/docker-openwrt-build-env](https://github.com/mwarning/docker-openwrt-build-env) - A Docker container to build OpenWrt images
 - [chrisipa/cloud-portal](https://github.com/chrisipa/cloud-portal) - Self service web portal for different Cloud platforms like Azure, AWS and VMWare vSphere.
-- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes 🇺🇦🇮🇱
+- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱
 - [fnproject/fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 
