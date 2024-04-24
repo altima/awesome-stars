@@ -29,6 +29,7 @@
 - [documentation](#documentation)
 - [dotnet](#dotnet)
 - [electron](#electron)
+- [embedded](#embedded)
 - [framework](#framework)
 - [git](#git)
 - [github](#github)
@@ -206,6 +207,10 @@
 ## electron 
 
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
+## embedded 
+
+- [unosquare/embedio](https://github.com/unosquare/embedio) - A tiny, cross-platform, module based web server for .NET
 
 ## framework 
 
