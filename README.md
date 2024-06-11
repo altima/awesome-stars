@@ -303,7 +303,7 @@
 
 ## Rust 
 
-- [nkizz/mop3](https://github.com/nkizz/mop3) - A Mastodon to POP3 Gateway
+- [miakizz/mop3](https://github.com/miakizz/mop3) - A Mastodon to POP3 Gateway
 
 ## Shell 
 
