@@ -74,6 +74,7 @@
 - [python3](#python3)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
+- [robotics](#robotics)
 - [security](#security)
 - [server](#server)
 - [serverless](#serverless)
@@ -454,7 +455,6 @@
 - [prawnsalad/KiwiIRC](https://github.com/prawnsalad/KiwiIRC) - This is **DEPRECATED**! Please go to https://github.com/kiwiirc/kiwiirc
 - [FreifunkVogtland/dns-static](https://github.com/FreifunkVogtland/dns-static) - DNS-Entries for *.ffv
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - qpdf: A content-preserving PDF document transformer
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [anki/cozmo-python-sdk](https://github.com/anki/cozmo-python-sdk) - Anki Cozmo Python SDK
 - [DmitryChabanin/xmpp](https://github.com/DmitryChabanin/xmpp) - An XMPP library written for .Net in C#.
 - [ubiety/xmpp](https://github.com/ubiety/xmpp) - An XMPP library written for .Net in C#.
@@ -581,6 +581,10 @@
 ## react 
 
 - [krestaino/bitprint](https://github.com/krestaino/bitprint) - :closed_lock_with_key: Print your Bitwarden vault.
+
+## robotics 
+
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics.
 
 ## security 
 
