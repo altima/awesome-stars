@@ -80,6 +80,7 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [spring-boot](#spring-boot)
+- [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [typescript](#typescript)
@@ -612,6 +613,10 @@
 ## spring-boot 
 
 - [chrisipa/cloud-portal](https://github.com/chrisipa/cloud-portal) - Self service web portal for different Cloud platforms like Azure, AWS and VMWare vSphere.
+
+## tailwindcss 
+
+- [krestaino/bitprint](https://github.com/krestaino/bitprint) - :closed_lock_with_key: Print your Bitwarden vault.
 
 ## terminal 
 
