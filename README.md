@@ -221,7 +221,6 @@
 
 ## Others 
 
-- [nortakales/flipper-zero-tonies](https://github.com/nortakales/flipper-zero-tonies) - 
 - [tomwechsler/Azure_Fundamentals_AZ-900](https://github.com/tomwechsler/Azure_Fundamentals_AZ-900) - This repo is all about Azure Fundamentals AZ-900 exam preparation.
 - [sasiplavnik/Flipper-IRDB](https://github.com/sasiplavnik/Flipper-IRDB) - 
 - [logickworkshop/Flipper-IRDB](https://github.com/logickworkshop/Flipper-IRDB) - A collective of different IRs for the Flipper
@@ -307,6 +306,7 @@
 
 ## Shell 
 
+- [nortakales/flipper-zero-tonies](https://github.com/nortakales/flipper-zero-tonies) - 
 - [chaos-consulting/adsberry](https://github.com/chaos-consulting/adsberry) - ADS-B mit dem Raspberry Pi - Chaosconsulting Style
 - [hedgedoc/container](https://github.com/hedgedoc/container) - HedgeDoc container image resources
 - [viisauksena/gluon-mesh-wireguard](https://github.com/viisauksena/gluon-mesh-wireguard) - 
