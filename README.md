@@ -288,7 +288,6 @@
 - [anki/cozmo-python-sdk](https://github.com/anki/cozmo-python-sdk) - Anki Cozmo Python SDK
 - [FreifunkVogtland/site-ffv](https://github.com/FreifunkVogtland/site-ffv) - Gluon Site of Freifunk Vogtland
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-- [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [chriszero/tvspielfilm2xmltv](https://github.com/chriszero/tvspielfilm2xmltv) - Simple XMLTV generator for Linux VDR
 - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
 - [ronw/daap-player](https://github.com/ronw/daap-player) - Minimalist music player for DAAP (iTunes) collections.  Written in Python.  Uses gstreamer for audio output and a slightly modified version of Debian's python-daap package to communicate with a DAAP s
@@ -303,6 +302,7 @@
 ## Rust 
 
 - [miakizz/mop3](https://github.com/miakizz/mop3) - A Mastodon to POP3 Gateway
+- [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 
 ## Shell 
 
