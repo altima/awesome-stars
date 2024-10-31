@@ -67,7 +67,7 @@
 - [win-acme/win-acme](https://github.com/win-acme/win-acme) - A simple ACME client for Windows (for use with Let's Encrypt et al.)
 - [michielpost/Q42.HueApi](https://github.com/michielpost/Q42.HueApi) - C# helper library to talk to the Philips Hue bridge
 - [ailen0ada/UWP.SSDP.Sample](https://github.com/ailen0ada/UWP.SSDP.Sample) - Sample application describes how to bind service and sending SSDP packet on UWP.
-- [eclipse/paho.mqtt.m2mqtt](https://github.com/eclipse/paho.mqtt.m2mqtt) - 
+- [eclipse-paho/paho.mqtt.m2mqtt](https://github.com/eclipse-paho/paho.mqtt.m2mqtt) - 
 - [DecaTec/IoT.WakeOnLanProxy](https://github.com/DecaTec/IoT.WakeOnLanProxy) - Moved to codeberg.org - https://codeberg.org/DecaTec/IoT.WakeOnLanProxy - Simple Wake On LAN proxy for Windows 10 IoT Core
 - [mono/SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models t
 - [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) - :camera: A modern, cross-platform, 2D Graphics library for .NET
