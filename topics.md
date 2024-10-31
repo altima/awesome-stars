@@ -451,7 +451,7 @@
 - [FreifunkVogtland/blog-content](https://github.com/FreifunkVogtland/blog-content) - 
 - [michielpost/Q42.HueApi](https://github.com/michielpost/Q42.HueApi) - C# helper library to talk to the Philips Hue bridge
 - [ailen0ada/UWP.SSDP.Sample](https://github.com/ailen0ada/UWP.SSDP.Sample) - Sample application describes how to bind service and sending SSDP packet on UWP.
-- [eclipse/paho.mqtt.m2mqtt](https://github.com/eclipse/paho.mqtt.m2mqtt) - 
+- [eclipse-paho/paho.mqtt.m2mqtt](https://github.com/eclipse-paho/paho.mqtt.m2mqtt) - 
 - [ms-iot/iot-utilities](https://github.com/ms-iot/iot-utilities) - 
 - [ms-iot/internetradio](https://github.com/ms-iot/internetradio) - 
 - [DecaTec/IoT.WakeOnLanProxy](https://github.com/DecaTec/IoT.WakeOnLanProxy) - Moved to codeberg.org - https://codeberg.org/DecaTec/IoT.WakeOnLanProxy - Simple Wake On LAN proxy for Windows 10 IoT Core
