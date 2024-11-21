@@ -63,7 +63,7 @@
 - [lprichar/UwpMessageRelay](https://github.com/lprichar/UwpMessageRelay) - A sample UWP app demonstrating how to use AppServiceConnection to do interprocess communication
 - [chkr1011/HA4IoT](https://github.com/chkr1011/HA4IoT) - Open Source Home Automation system for .NET
 - [mmbot/mmbot](https://github.com/mmbot/mmbot) - A C# port of Hubot
-- [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
+- [litedb-org/LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 - [win-acme/win-acme](https://github.com/win-acme/win-acme) - A simple ACME client for Windows (for use with Let's Encrypt et al.)
 - [michielpost/Q42.HueApi](https://github.com/michielpost/Q42.HueApi) - C# helper library to talk to the Philips Hue bridge
 - [ailen0ada/UWP.SSDP.Sample](https://github.com/ailen0ada/UWP.SSDP.Sample) - Sample application describes how to bind service and sending SSDP packet on UWP.
