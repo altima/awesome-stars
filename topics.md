@@ -184,7 +184,7 @@
 ## database 
 
 - [HypoPG/hypopg](https://github.com/HypoPG/hypopg) - Hypothetical Indexes for PostgreSQL
-- [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
+- [litedb-org/LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 
 ## deployment 
 
@@ -210,7 +210,7 @@
 ## dotnet 
 
 - [unosquare/embedio](https://github.com/unosquare/embedio) - A tiny, cross-platform, module based web server for .NET
-- [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
+- [litedb-org/LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 - [mono/SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models t
 - [DecaTec/Portable-WebDAV-Library](https://github.com/DecaTec/Portable-WebDAV-Library) - Moved to codeberg.org - https://codeberg.org/DecaTec/Portable-WebDAV-Library - The Portable WebDAV Library is a strongly typed, async WebDAV client library which is fully compliant to RFC 4918, RFC 43
 - [xunit/xunit](https://github.com/xunit/xunit) - xUnit.net is a free, open source, community-focused unit testing tool for .NET.
@@ -377,7 +377,7 @@
 
 ## nosql 
 
-- [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
+- [litedb-org/LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 
 ## npm 
 
