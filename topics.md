@@ -86,6 +86,7 @@
 - [terraform](#terraform)
 - [typescript](#typescript)
 - [visual-studio-code](#visual-studio-code)
+- [vpn](#vpn)
 - [webapp](#webapp)
 - [windows](#windows)
 - [wordpress](#wordpress)
@@ -426,7 +427,6 @@
 - [dirkjanm/CVE-2020-1472](https://github.com/dirkjanm/CVE-2020-1472) - PoC for Zerologon - all research credits go to Tom Tervoort of Secura
 - [kayrus/iradio](https://github.com/kayrus/iradio) - Information about the firmware inside Internet Radio (Conrad's renkforce IR 1)
 - [mickem/nscp](https://github.com/mickem/nscp) - NSClient++
-- [perara/wg-manager](https://github.com/perara/wg-manager) - A easy to use WireGuard dashboard and management tool
 - [entropia/tip-toi-reveng](https://github.com/entropia/tip-toi-reveng) - Trying to understand the file format of Tip Toi
 - [T0biii/gluon-docker](https://github.com/T0biii/gluon-docker) - Docker image to build firmware for the Freifunk München community. Clone from Magdeburg
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
@@ -642,6 +642,10 @@
 
 - [microsoft/Git-Credential-Manager-for-Windows](https://github.com/microsoft/Git-Credential-Manager-for-Windows) - Secure Git credential storage for Windows with support for Visual Studio Team Services, GitHub, and Bitbucket multi-factor authentication.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
+## vpn 
+
+- [perara/wg-manager](https://github.com/perara/wg-manager) - A easy to use WireGuard dashboard and management tool
 
 ## webapp 
 
