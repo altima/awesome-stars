@@ -269,7 +269,7 @@
 ## Python 
 
 - [science-computing/wartungsplan](https://github.com/science-computing/wartungsplan) - A tool to extract events from an ical file by day or day range and perform an action per event like sending an email or opening a ticket
-- [ForceFledgling/CVE-2023-22518](https://github.com/ForceFledgling/CVE-2023-22518) - Improper Authorization Vulnerability in Confluence Data Center and Server + bonus 🔥
+- [ForceFledgling/CVE-2023-22518](https://github.com/ForceFledgling/CVE-2023-22518) - Improper Authorization Vulnerability in Confluence Data Center and Server
 - [Mebus/cupp](https://github.com/Mebus/cupp) - Common User Passwords Profiler (CUPP)
 - [jczic/MicroWebSrv](https://github.com/jczic/MicroWebSrv) - A micro HTTP Web server that supports WebSockets, html/python language templating and routing handlers, for MicroPython (used on Pycom modules & ESP32)
 - [sbcshop/EnkPi_7.5_Software](https://github.com/sbcshop/EnkPi_7.5_Software) - EnkPi is a series of 4 ePaper displays mounted on PCBs to provide sturdiness and comfort to the users. Powered with Raspberry Pi Pico W, these EnkPi boards have Partial Refresh Support with up to 170 
