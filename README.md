@@ -306,6 +306,7 @@
 
 ## Shell 
 
+- [olli991/mib-std2-pq-zr-toolbox](https://github.com/olli991/mib-std2-pq-zr-toolbox) - Toolbox for MIB STD2 PQ/ZR Technisat/Preh units.
 - [nortakales/flipper-zero-tonies](https://github.com/nortakales/flipper-zero-tonies) - 
 - [chaos-consulting/adsberry](https://github.com/chaos-consulting/adsberry) - ADS-B mit dem Raspberry Pi - Chaosconsulting Style
 - [hedgedoc/container](https://github.com/hedgedoc/container) - HedgeDoc container image resources
