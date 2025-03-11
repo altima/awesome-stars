@@ -445,7 +445,6 @@
 - [StefanScherer/dockerfiles-windows](https://github.com/StefanScherer/dockerfiles-windows) - Various Dockerfiles for Windows Containers
 - [viisauksena/gluon-mesh-wireguard](https://github.com/viisauksena/gluon-mesh-wireguard) - 
 - [mmbot/mmbot](https://github.com/mmbot/mmbot) - A C# port of Hubot
-- [AppWerft/Freifunker](https://github.com/AppWerft/Freifunker) - This is repo for freifunker App.
 - [FreifunkVogtland/ffv-meshviewer-config](https://github.com/FreifunkVogtland/ffv-meshviewer-config) - Configuration file for the FFV Mesh-Viewer
 - [FreifunkVogtland/gluon-firmware-wizard](https://github.com/FreifunkVogtland/gluon-firmware-wizard) - Wizard to select the correct firmware image for your router
 - [FreifunkVogtland/blog-content](https://github.com/FreifunkVogtland/blog-content) - 
