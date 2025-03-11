@@ -183,7 +183,6 @@
 - [StefanScherer/dockerfiles-windows](https://github.com/StefanScherer/dockerfiles-windows) - Various Dockerfiles for Windows Containers
 - [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
 - [dweinstein/node-google-play](https://github.com/dweinstein/node-google-play) - Get details and download apps from https://play.google.com by emulating an Android (Nexus 5X) device by default. For a rust version of this library check out https://github.com/dweinstein/rs-google-pl
-- [AppWerft/Freifunker](https://github.com/AppWerft/Freifunker) - This is repo for freifunker App.
 - [ekristen/dns-proxy](https://github.com/ekristen/dns-proxy) - Simple DNS Proxy written in Node.JS. Override hosts, domains, or tlds. Redirect certain domains to different nameservers.
 - [Yaffle/EventSource](https://github.com/Yaffle/EventSource) - a polyfill for http://www.w3.org/TR/eventsource/
 - [freifunk-darmstadt/gluon-firmware-selector](https://github.com/freifunk-darmstadt/gluon-firmware-selector) - Firmware selector for gluon router images
