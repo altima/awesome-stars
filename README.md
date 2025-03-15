@@ -267,6 +267,7 @@
 
 ## Python 
 
+- [nortakales/flipper-zero-tonies](https://github.com/nortakales/flipper-zero-tonies) - 
 - [science-computing/wartungsplan](https://github.com/science-computing/wartungsplan) - A tool to extract events from an ical file by day or day range and perform an action per event like sending an email or opening a ticket
 - [ForceFledgling/CVE-2023-22518](https://github.com/ForceFledgling/CVE-2023-22518) - Improper Authorization Vulnerability in Confluence Data Center and Server
 - [Mebus/cupp](https://github.com/Mebus/cupp) - Common User Passwords Profiler (CUPP)
@@ -306,7 +307,6 @@
 ## Shell 
 
 - [olli991/mib-std2-pq-zr-toolbox](https://github.com/olli991/mib-std2-pq-zr-toolbox) - Toolbox for MIB STD2 PQ/ZR Technisat/Preh units.
-- [nortakales/flipper-zero-tonies](https://github.com/nortakales/flipper-zero-tonies) - 
 - [chaos-consulting/adsberry](https://github.com/chaos-consulting/adsberry) - ADS-B mit dem Raspberry Pi - Chaosconsulting Style
 - [hedgedoc/container](https://github.com/hedgedoc/container) - HedgeDoc container image resources
 - [viisauksena/gluon-mesh-wireguard](https://github.com/viisauksena/gluon-mesh-wireguard) - 
