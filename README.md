@@ -204,7 +204,7 @@
 
 ## Jupyter Notebook 
 
-- [unsplash/datasets](https://github.com/unsplash/datasets) - 🎁  5,400,000+ Unsplash images made available for research and machine learning
+- [unsplash/datasets](https://github.com/unsplash/datasets) - 🎁  6,500,000+ Unsplash images made available for research and machine learning
 
 ## Kotlin 
 
