@@ -188,7 +188,7 @@
 - [freifunk-darmstadt/gluon-firmware-selector](https://github.com/freifunk-darmstadt/gluon-firmware-selector) - Firmware selector for gluon router images
 - [cdsanchez/SimpleWorker](https://github.com/cdsanchez/SimpleWorker) - Inline web workers + promises.
 - [prawnsalad/KiwiIRC](https://github.com/prawnsalad/KiwiIRC) - This is **DEPRECATED**! Please go to https://github.com/kiwiirc/kiwiirc
-- [SAP/openui5](https://github.com/SAP/openui5) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice.
+- [UI5/openui5](https://github.com/UI5/openui5) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice.
 - [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
 - [headjs/headjs](https://github.com/headjs/headjs) - The only script in your HEAD.
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
