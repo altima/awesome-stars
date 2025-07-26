@@ -394,6 +394,7 @@
 
 ## others 
 
+- [spyboy-productions/CamXploit](https://github.com/spyboy-productions/CamXploit) - Find, analyze, and check for exposed IP cameras with open ports, known vulnerabilities, and weak login credentials.
 - [olli991/mib-std2-pq-zr-toolbox](https://github.com/olli991/mib-std2-pq-zr-toolbox) - Toolbox for MIB STD2 PQ/ZR Technisat/Preh units.
 - [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
 - [nortakales/flipper-zero-tonies](https://github.com/nortakales/flipper-zero-tonies) - 
