@@ -12,6 +12,7 @@
 - [CSS](#css)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
+- [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Java](#java)
@@ -151,6 +152,10 @@
 - [Oxalide/vsphere-influxdb-go](https://github.com/Oxalide/vsphere-influxdb-go) - Collect VMware vSphere, vCenter and ESXi performance metrics and send them to InfluxDB
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [michenriksen/gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
+
+## HCL 
+
+- [robertbrandso/terraform-azuread-recommended-conditional-access-policies](https://github.com/robertbrandso/terraform-azuread-recommended-conditional-access-policies) - A set of recommended Conditional Access Policies for Azure AD based on Kenneth van Surksum's work.
 
 ## HTML 
 
