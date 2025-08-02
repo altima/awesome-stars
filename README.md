@@ -258,6 +258,7 @@
 
 ## PowerShell 
 
+- [guyrleech/Microsoft](https://github.com/guyrleech/Microsoft) - Scripts and tools for use with Microsoft products/technologies
 - [tomwechsler/Active_Directory_Advanced_Threat_Hunting](https://github.com/tomwechsler/Active_Directory_Advanced_Threat_Hunting) - This repo is about Active Directory Advanced Threat Hunting
 - [tomwechsler/Active_Directory_Manage_with_PowerShell](https://github.com/tomwechsler/Active_Directory_Manage_with_PowerShell) - That's what this repo is all about!
 - [tomwechsler/Microsoft_Endpoint_Manager](https://github.com/tomwechsler/Microsoft_Endpoint_Manager) - This repo is all about Microsoft Endpoint Manager (Intune)!
