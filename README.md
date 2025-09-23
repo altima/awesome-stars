@@ -186,7 +186,7 @@
 - [aymen-mouelhi/ocpp-js](https://github.com/aymen-mouelhi/ocpp-js) - Open Charge Point Protocol Implementation in JS
 - [hopglass/hopglass](https://github.com/hopglass/hopglass) - Visualize the Freifunk Mesh
 - [StefanScherer/dockerfiles-windows](https://github.com/StefanScherer/dockerfiles-windows) - Various Dockerfiles for Windows Containers
-- [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
+- [http-party/http-server](https://github.com/http-party/http-server) - A simple, zero-configuration, command-line http server
 - [dweinstein/node-google-play](https://github.com/dweinstein/node-google-play) - Get details and download apps from https://play.google.com by emulating an Android (Nexus 5X) device by default. For a rust version of this library check out https://github.com/dweinstein/rs-google-pl
 - [ekristen/dns-proxy](https://github.com/ekristen/dns-proxy) - Simple DNS Proxy written in Node.JS. Override hosts, domains, or tlds. Redirect certain domains to different nameservers.
 - [Yaffle/EventSource](https://github.com/Yaffle/EventSource) - a polyfill for http://www.w3.org/TR/eventsource/
