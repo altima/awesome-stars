@@ -19,6 +19,7 @@
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [cli](#cli)
+- [cloud](#cloud)
 - [compiler](#compiler)
 - [csharp](#csharp)
 - [css](#css)
@@ -159,6 +160,10 @@
 - [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [win-acme/win-acme](https://github.com/win-acme/win-acme) - A simple ACME client for Windows (for use with Let's Encrypt et al.)
+
+## cloud 
+
+- [chrisipa/cloud-portal](https://github.com/chrisipa/cloud-portal) - Self service web portal for different Cloud platforms like Azure, AWS and VMWare vSphere.
 
 ## compiler 
 
