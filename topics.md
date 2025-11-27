@@ -20,6 +20,7 @@
 - [c-plus-plus](#c-plus-plus)
 - [cli](#cli)
 - [cloud](#cloud)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [csharp](#csharp)
 - [css](#css)
@@ -164,6 +165,13 @@
 ## cloud 
 
 - [chrisipa/cloud-portal](https://github.com/chrisipa/cloud-portal) - Self service web portal for different Cloud platforms like Azure, AWS and VMWare vSphere.
+
+## command-line 
+
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
+- [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud
+- [http-party/http-server](https://github.com/http-party/http-server) - A simple, zero-configuration, command-line http server
+- [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 
 ## compiler 
 
