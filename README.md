@@ -65,7 +65,7 @@
 - [chkr1011/HA4IoT](https://github.com/chkr1011/HA4IoT) - Open Source Home Automation system for .NET
 - [mmbot/mmbot](https://github.com/mmbot/mmbot) - A C# port of Hubot
 - [litedb-org/LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
-- [win-acme/win-acme](https://github.com/win-acme/win-acme) - A simple ACME client for Windows (for use with Let's Encrypt et al.)
+- [win-acme/win-acme](https://github.com/win-acme/win-acme) - Automate SSL/TLS certificates on Windows with ease
 - [michielpost/Q42.HueApi](https://github.com/michielpost/Q42.HueApi) - C# helper library to talk to the Philips Hue bridge
 - [ailen0ada/UWP.SSDP.Sample](https://github.com/ailen0ada/UWP.SSDP.Sample) - Sample application describes how to bind service and sending SSDP packet on UWP.
 - [eclipse-paho/paho.mqtt.m2mqtt](https://github.com/eclipse-paho/paho.mqtt.m2mqtt) - 
