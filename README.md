@@ -260,7 +260,7 @@
 - [guyrleech/Microsoft](https://github.com/guyrleech/Microsoft) - Scripts and tools for use with Microsoft products/technologies
 - [tomwechsler/Active_Directory_Advanced_Threat_Hunting](https://github.com/tomwechsler/Active_Directory_Advanced_Threat_Hunting) - This repo is about Active Directory Advanced Threat Hunting
 - [tomwechsler/Active_Directory_Manage_with_PowerShell](https://github.com/tomwechsler/Active_Directory_Manage_with_PowerShell) - That's what this repo is all about!
-- [tomwechsler/Microsoft_Endpoint_Manager](https://github.com/tomwechsler/Microsoft_Endpoint_Manager) - This repo is all about Microsoft Endpoint Manager (Intune)!
+- [tomwechsler/Microsoft_Endpoint_Manager](https://github.com/tomwechsler/Microsoft_Endpoint_Manager) - This repo is all about Microsoft Endpoint Manager (Intune and Configuration Manager)!
 - [claudiospizzi/SecurityFever](https://github.com/claudiospizzi/SecurityFever) - PowerShell Module with custom functions and cmdlets related to Windows and application security.
 - [techspence/ScriptSentry](https://github.com/techspence/ScriptSentry) - ScriptSentry finds misconfigured and dangerous logon scripts.
 - [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
