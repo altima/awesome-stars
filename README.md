@@ -189,7 +189,7 @@
 - [dweinstein/node-google-play](https://github.com/dweinstein/node-google-play) - Get details and download apps from https://play.google.com by emulating an Android (Nexus 5X) device by default. For a rust version of this library check out https://github.com/dweinstein/rs-google-pl
 - [ekristen/dns-proxy](https://github.com/ekristen/dns-proxy) - Simple DNS Proxy written in Node.JS. Override hosts, domains, or tlds. Redirect certain domains to different nameservers.
 - [Yaffle/EventSource](https://github.com/Yaffle/EventSource) - a polyfill for http://www.w3.org/TR/eventsource/
-- [freifunk-darmstadt/gluon-firmware-selector](https://github.com/freifunk-darmstadt/gluon-firmware-selector) - Firmware selector for gluon router images
+- [freifunk-gluon/gluon-firmware-selector](https://github.com/freifunk-gluon/gluon-firmware-selector) - Firmware selector for gluon router images
 - [cdsanchez/SimpleWorker](https://github.com/cdsanchez/SimpleWorker) - Inline web workers + promises.
 - [prawnsalad/KiwiIRC](https://github.com/prawnsalad/KiwiIRC) - This is **DEPRECATED**! Please go to https://github.com/kiwiirc/kiwiirc
 - [UI5/openui5](https://github.com/UI5/openui5) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice.
@@ -263,7 +263,7 @@
 - [tomwechsler/Microsoft_Endpoint_Manager](https://github.com/tomwechsler/Microsoft_Endpoint_Manager) - This repo is all about Microsoft Endpoint Manager (Intune and Configuration Manager)!
 - [claudiospizzi/SecurityFever](https://github.com/claudiospizzi/SecurityFever) - PowerShell Module with custom functions and cmdlets related to Windows and application security.
 - [techspence/ScriptSentry](https://github.com/techspence/ScriptSentry) - ScriptSentry finds misconfigured and dangerous logon scripts.
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 600+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
 - [dafthack/MFASweep](https://github.com/dafthack/MFASweep) - A tool for checking if MFA is enabled on multiple Microsoft Services
 - [I-Am-Jakoby/Flipper-Zero-BadUSB](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB) - Repository for my flipper zero badUSB payloads. Now almost entirely plug and play.
 - [nicolonsky/Techblog](https://github.com/nicolonsky/Techblog) - PowerShell scripts and content mentioned on my techblog
