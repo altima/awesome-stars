@@ -122,7 +122,7 @@
 
 ## automation 
 
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 600+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
 
 ## aws 
 
@@ -173,7 +173,7 @@
 
 ## command-line 
 
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 600+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
 - [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud
 - [http-party/http-server](https://github.com/http-party/http-server) - A simple, zero-configuration, command-line http server
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
@@ -478,7 +478,7 @@
 - [DecaTec/IoT.WakeOnLanProxy](https://github.com/DecaTec/IoT.WakeOnLanProxy) - Moved to codeberg.org - https://codeberg.org/DecaTec/IoT.WakeOnLanProxy - Simple Wake On LAN proxy for Windows 10 IoT Core
 - [Yaffle/EventSource](https://github.com/Yaffle/EventSource) - a polyfill for http://www.w3.org/TR/eventsource/
 - [Yortw/RSSDP](https://github.com/Yortw/RSSDP) - Really Simple Service Discovery Protocol - a 100% .Net implementation of the SSDP protocol for publishing custom/basic devices, and discovering all device types on a network.
-- [freifunk-darmstadt/gluon-firmware-selector](https://github.com/freifunk-darmstadt/gluon-firmware-selector) - Firmware selector for gluon router images
+- [freifunk-gluon/gluon-firmware-selector](https://github.com/freifunk-gluon/gluon-firmware-selector) - Firmware selector for gluon router images
 - [cdsanchez/SimpleWorker](https://github.com/cdsanchez/SimpleWorker) - Inline web workers + promises.
 - [prawnsalad/KiwiIRC](https://github.com/prawnsalad/KiwiIRC) - This is **DEPRECATED**! Please go to https://github.com/kiwiirc/kiwiirc
 - [FreifunkVogtland/dns-static](https://github.com/FreifunkVogtland/dns-static) - DNS-Entries for *.ffv
@@ -579,7 +579,7 @@
 
 - [tomwechsler/Active_Directory_Advanced_Threat_Hunting](https://github.com/tomwechsler/Active_Directory_Advanced_Threat_Hunting) - This repo is about Active Directory Advanced Threat Hunting
 - [techspence/ScriptSentry](https://github.com/techspence/ScriptSentry) - ScriptSentry finds misconfigured and dangerous logon scripts.
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 600+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
 - [nicolonsky/Techblog](https://github.com/nicolonsky/Techblog) - PowerShell scripts and content mentioned on my techblog
 - [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
