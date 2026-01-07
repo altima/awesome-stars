@@ -415,7 +415,7 @@
 
 - [guyrleech/Microsoft](https://github.com/guyrleech/Microsoft) - Scripts and tools for use with Microsoft products/technologies
 - [robertbrandso/terraform-azuread-recommended-conditional-access-policies](https://github.com/robertbrandso/terraform-azuread-recommended-conditional-access-policies) - A set of recommended Conditional Access Policies for Azure AD based on Kenneth van Surksum's work.
-- [spyboy-productions/CamXploit](https://github.com/spyboy-productions/CamXploit) - Find, analyze, and check for exposed IP cameras with open ports, known vulnerabilities, and weak login credentials.
+- [spyboy-productions/CamXploit](https://github.com/spyboy-productions/CamXploit) - Security reconnaissance and assessment tool for identifying potentially exposed IP cameras by analyzing open ports, service configurations, and common misconfigurations.
 - [olli991/mib-std2-pq-zr-toolbox](https://github.com/olli991/mib-std2-pq-zr-toolbox) - Toolbox for MIB STD2 PQ/ZR Technisat/Preh units.
 - [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
 - [nortakales/flipper-zero-tonies](https://github.com/nortakales/flipper-zero-tonies) - 
