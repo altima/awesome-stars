@@ -438,7 +438,7 @@
 - [dafthack/MFASweep](https://github.com/dafthack/MFASweep) - A tool for checking if MFA is enabled on multiple Microsoft Services
 - [lxnoid/SomfyIO](https://github.com/lxnoid/SomfyIO) - 
 - [sasiplavnik/Flipper-IRDB](https://github.com/sasiplavnik/Flipper-IRDB) - 
-- [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Real-time ADS-B notifications for specific aircraft takeoffs and landings. Supports output to Twitter, Discord, Mastodon, and Telegram.
+- [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Real-time ADS-B notifications for specific aircraft takeoffs and landings. Supports output many platforms.
 - [I-Am-Jakoby/Flipper-Zero-BadUSB](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB) - Repository for my flipper zero badUSB payloads. Now almost entirely plug and play.
 - [logickworkshop/Flipper-IRDB](https://github.com/logickworkshop/Flipper-IRDB) - A collective of different IRs for the Flipper
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
