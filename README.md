@@ -313,6 +313,7 @@
 
 ## Shell 
 
+- [jamesog/tailscale-edgeos](https://github.com/jamesog/tailscale-edgeos) - Running Tailscale on Ubiquiti EdgeOS
 - [olli991/mib-std2-pq-zr-toolbox](https://github.com/olli991/mib-std2-pq-zr-toolbox) - Toolbox for MIB STD2 PQ/ZR Technisat/Preh units.
 - [chaos-consulting/adsberry](https://github.com/chaos-consulting/adsberry) - ADS-B mit dem Raspberry Pi - Chaosconsulting Style
 - [hedgedoc/container](https://github.com/hedgedoc/container) - HedgeDoc container image resources
