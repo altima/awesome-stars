@@ -419,6 +419,7 @@
 
 ## others 
 
+- [jamesog/tailscale-edgeos](https://github.com/jamesog/tailscale-edgeos) - Running Tailscale on Ubiquiti EdgeOS
 - [guyrleech/Microsoft](https://github.com/guyrleech/Microsoft) - Scripts and tools for use with Microsoft products/technologies
 - [robertbrandso/terraform-azuread-recommended-conditional-access-policies](https://github.com/robertbrandso/terraform-azuread-recommended-conditional-access-policies) - A set of recommended Conditional Access Policies for Azure AD based on Kenneth van Surksum's work.
 - [spyboy-productions/CamXploit](https://github.com/spyboy-productions/CamXploit) - Security reconnaissance and assessment tool for identifying potentially exposed IP cameras by analyzing open ports, service configurations, and common misconfigurations.
