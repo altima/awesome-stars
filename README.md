@@ -116,6 +116,7 @@
 
 ## C++ 
 
+- [pboschi/HCPBridgeMqtt](https://github.com/pboschi/HCPBridgeMqtt) - emulates Hoermann HAP 1 HCP (HCP2) on ESP8622, ESP32 and Arduino.
 - [lxnoid/SomfyIO](https://github.com/lxnoid/SomfyIO) - 
 - [BSI-Bund/RdpCacheStitcher](https://github.com/BSI-Bund/RdpCacheStitcher) - RdpCacheStitcher is a tool that supports forensic analysts in reconstructing useful images out of RDP cache bitmaps.
 - [SunboX/PixelChaser](https://github.com/SunboX/PixelChaser) - 
