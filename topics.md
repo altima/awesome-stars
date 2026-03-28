@@ -419,6 +419,7 @@
 
 ## others 
 
+- [pboschi/HCPBridgeMqtt](https://github.com/pboschi/HCPBridgeMqtt) - emulates Hoermann HAP 1 HCP (HCP2) on ESP8622, ESP32 and Arduino.
 - [jamesog/tailscale-edgeos](https://github.com/jamesog/tailscale-edgeos) - Running Tailscale on Ubiquiti EdgeOS
 - [guyrleech/Microsoft](https://github.com/guyrleech/Microsoft) - Scripts and tools for use with Microsoft products/technologies
 - [robertbrandso/terraform-azuread-recommended-conditional-access-policies](https://github.com/robertbrandso/terraform-azuread-recommended-conditional-access-policies) - A set of recommended Conditional Access Policies for Azure AD based on Kenneth van Surksum's work.
