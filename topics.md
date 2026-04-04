@@ -35,6 +35,7 @@
 - [dotnet](#dotnet)
 - [electron](#electron)
 - [embedded](#embedded)
+- [esp32](#esp32)
 - [framework](#framework)
 - [git](#git)
 - [github](#github)
@@ -244,6 +245,10 @@
 ## embedded 
 
 - [unosquare/embedio](https://github.com/unosquare/embedio) - A tiny, cross-platform, module based web server for .NET
+
+## esp32 
+
+- [jczic/MicroWebSrv](https://github.com/jczic/MicroWebSrv) - A micro HTTP Web server that supports WebSockets, html/python language templating and routing handlers, for MicroPython (used on Pycom modules & ESP32)
 
 ## framework 
 
