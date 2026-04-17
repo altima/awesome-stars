@@ -43,6 +43,7 @@
 - [go](#go)
 - [golang](#golang)
 - [google](#google)
+- [hack](#hack)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
 - [hacktoberfest](#hacktoberfest)
@@ -280,6 +281,10 @@
 ## google 
 
 - [dweinstein/node-google-play](https://github.com/dweinstein/node-google-play) - Get details and download apps from https://play.google.com by emulating an Android (Nexus 5X) device by default. For a rust version of this library check out https://github.com/dweinstein/rs-google-pl
+
+## hack 
+
+- [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
 
 ## hacking 
 
