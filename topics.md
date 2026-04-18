@@ -189,7 +189,6 @@
 
 - [win-acme/win-acme](https://github.com/win-acme/win-acme) - Automate SSL/TLS certificates on Windows with ease
 - [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
-- [igorkulman/QRReader.WPA81](https://github.com/igorkulman/QRReader.WPA81) - Sample QR code reader app for Windows Phone 8.1
 
 ## css 
 
@@ -372,7 +371,6 @@
 ## library 
 
 - [nabla-c0d3/sslyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS scanning library.
-- [igorkulman/QRReader.WPA81](https://github.com/igorkulman/QRReader.WPA81) - Sample QR code reader app for Windows Phone 8.1
 
 ## lua 
 
