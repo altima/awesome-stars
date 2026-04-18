@@ -92,7 +92,6 @@
 - [XamlBrewer/Uwp.CoverFlowSample](https://github.com/XamlBrewer/Uwp.CoverFlowSample) - A port of Silverlight Cover Flow Control to the Universal Windows Platform.
 - [demigor/lex.db](https://github.com/demigor/lex.db) - Lex DB
 - [Redth/ZXing.Net.Mobile](https://github.com/Redth/ZXing.Net.Mobile) - Barcode Scanner for Xamarin.iOS, Xamarin.Android, UWP and Tizen
-- [igorkulman/QRReader.WPA81](https://github.com/igorkulman/QRReader.WPA81) - Sample QR code reader app for Windows Phone 8.1
 - [Windows-XAML/201505-MVA](https://github.com/Windows-XAML/201505-MVA) - 
 - [Bobris/Nowin](https://github.com/Bobris/Nowin) - Owin Web Server in pure .Net
 - [kaikreuzer/openhab.winrt](https://github.com/kaikreuzer/openhab.winrt) - Repository to host openHABs' native Windows client
