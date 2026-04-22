@@ -437,7 +437,6 @@
 - [nortakales/flipper-zero-tonies](https://github.com/nortakales/flipper-zero-tonies) - 
 - [science-computing/wartungsplan](https://github.com/science-computing/wartungsplan) - A tool to extract events from an ical file by day or day range and perform an action per event like sending an email or opening a ticket
 - [MattHodge/ansible-docker](https://github.com/MattHodge/ansible-docker) - Docker Container for running Ansible with support for WinRM
-- [culturally/flipper-zero-airtag](https://github.com/culturally/flipper-zero-airtag) - Spoof Flipper Zero as AirTag
 - [tomwechsler/Active_Directory_Manage_with_PowerShell](https://github.com/tomwechsler/Active_Directory_Manage_with_PowerShell) - That's what this repo is all about!
 - [Mebus/cupp](https://github.com/Mebus/cupp) - Common User Passwords Profiler (CUPP)
 - [claudiospizzi/SecurityFever](https://github.com/claudiospizzi/SecurityFever) - PowerShell Module with custom functions and cmdlets related to Windows and application security.
