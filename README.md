@@ -179,7 +179,6 @@
 
 ## JavaScript 
 
-- [olimpo88/PyDDNS](https://github.com/olimpo88/PyDDNS) - Complete system to create your own server ddns
 - [krestaino/bitprint](https://github.com/krestaino/bitprint) - :closed_lock_with_key: Print your Bitwarden vault.
 - [aymen-mouelhi/ocpp-js](https://github.com/aymen-mouelhi/ocpp-js) - Open Charge Point Protocol Implementation in JS
 - [hopglass/hopglass](https://github.com/hopglass/hopglass) - Visualize the Freifunk Mesh
@@ -282,6 +281,7 @@
 - [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Real-time ADS-B notifications for specific aircraft takeoffs and landings. Supports output many platforms.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) - 
+- [olimpo88/PyDDNS](https://github.com/olimpo88/PyDDNS) - Complete system to create your own server ddns
 - [yuppity/unifi-video-api](https://github.com/yuppity/unifi-video-api) - Python API for UniFi Video
 - [dirkjanm/CVE-2020-1472](https://github.com/dirkjanm/CVE-2020-1472) - PoC for Zerologon - all research credits go to Tom Tervoort of Secura
 - [nabla-c0d3/sslyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS scanning library.
