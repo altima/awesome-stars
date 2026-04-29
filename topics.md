@@ -19,6 +19,7 @@
 - [bugbounty](#bugbounty)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [c-sharp](#c-sharp)
 - [cli](#cli)
 - [cloud](#cloud)
 - [command-line](#command-line)
@@ -162,6 +163,17 @@
 
 - [cefsharp/CefSharp](https://github.com/cefsharp/CefSharp) - .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
+
+## c-sharp 
+
+- [cefsharp/CefSharp](https://github.com/cefsharp/CefSharp) - .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
+- [michielpost/Q42.HueApi](https://github.com/michielpost/Q42.HueApi) - C# helper library to talk to the Philips Hue bridge
+- [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) - :camera: A modern, cross-platform, 2D Graphics library for .NET
+- [Yortw/RSSDP](https://github.com/Yortw/RSSDP) - Really Simple Service Discovery Protocol - a 100% .Net implementation of the SSDP protocol for publishing custom/basic devices, and discovering all device types on a network.
+- [ubiety/xmpp](https://github.com/ubiety/xmpp) - An XMPP library written for .Net in C#.
+- [xunit/xunit](https://github.com/xunit/xunit) - xUnit.net is a free, open source, community-focused unit testing tool for .NET.
+- [Windows-XAML/Template10](https://github.com/Windows-XAML/Template10) - Making Windows 10 apps great again
+- [PrismLibrary/Prism](https://github.com/PrismLibrary/Prism) - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Xamarin Forms, and Uno / Win UI Applications..
 
 ## cli 
 
@@ -485,14 +497,12 @@
 - [FreifunkVogtland/ffv-meshviewer-config](https://github.com/FreifunkVogtland/ffv-meshviewer-config) - Configuration file for the FFV Mesh-Viewer
 - [FreifunkVogtland/gluon-firmware-wizard](https://github.com/FreifunkVogtland/gluon-firmware-wizard) - Wizard to select the correct firmware image for your router
 - [FreifunkVogtland/blog-content](https://github.com/FreifunkVogtland/blog-content) - 
-- [michielpost/Q42.HueApi](https://github.com/michielpost/Q42.HueApi) - C# helper library to talk to the Philips Hue bridge
 - [ailen0ada/UWP.SSDP.Sample](https://github.com/ailen0ada/UWP.SSDP.Sample) - Sample application describes how to bind service and sending SSDP packet on UWP.
 - [eclipse-paho/paho.mqtt.m2mqtt](https://github.com/eclipse-paho/paho.mqtt.m2mqtt) - 
 - [ms-iot/iot-utilities](https://github.com/ms-iot/iot-utilities) - 
 - [ms-iot/internetradio](https://github.com/ms-iot/internetradio) - 
 - [DecaTec/IoT.WakeOnLanProxy](https://github.com/DecaTec/IoT.WakeOnLanProxy) - Moved to codeberg.org - https://codeberg.org/DecaTec/IoT.WakeOnLanProxy - Simple Wake On LAN proxy for Windows 10 IoT Core
 - [Yaffle/EventSource](https://github.com/Yaffle/EventSource) - a polyfill for http://www.w3.org/TR/eventsource/
-- [Yortw/RSSDP](https://github.com/Yortw/RSSDP) - Really Simple Service Discovery Protocol - a 100% .Net implementation of the SSDP protocol for publishing custom/basic devices, and discovering all device types on a network.
 - [freifunk-gluon/gluon-firmware-selector](https://github.com/freifunk-gluon/gluon-firmware-selector) - Firmware selector for gluon router images
 - [cdsanchez/SimpleWorker](https://github.com/cdsanchez/SimpleWorker) - Inline web workers + promises.
 - [prawnsalad/KiwiIRC](https://github.com/prawnsalad/KiwiIRC) - This is **DEPRECATED**! Please go to https://github.com/kiwiirc/kiwiirc
@@ -500,7 +510,6 @@
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - qpdf: A content-preserving PDF document transformer
 - [anki/cozmo-python-sdk](https://github.com/anki/cozmo-python-sdk) - Anki Cozmo Python SDK
 - [DmitryChabanin/xmpp](https://github.com/DmitryChabanin/xmpp) - An XMPP library written for .Net in C#.
-- [ubiety/xmpp](https://github.com/ubiety/xmpp) - An XMPP library written for .Net in C#.
 - [joashc/HaxlSharp](https://github.com/joashc/HaxlSharp) - Automatically concurrent data fetching and request deduplication in C#.
 - [QuinnDamerell/UniversalMarkdown](https://github.com/QuinnDamerell/UniversalMarkdown) - A markdown parsing and rendering library for C# and Windows Universal Apps
 - [FreifunkVogtland/site-ffv](https://github.com/FreifunkVogtland/site-ffv) - Gluon Site of Freifunk Vogtland
@@ -518,7 +527,6 @@
 - [marmelroy/PeekPop](https://github.com/marmelroy/PeekPop) - Peek and Pop with backwards-compatibility
 - [otros-systems/otroslogviewer](https://github.com/otros-systems/otroslogviewer) - Log viewer focused on developers work
 - [xamarin/XamarinComponents](https://github.com/xamarin/XamarinComponents) - Plugins for Xamarin
-- [Windows-XAML/Template10](https://github.com/Windows-XAML/Template10) - Making Windows 10 apps great again
 - [jbt/markdown-editor](https://github.com/jbt/markdown-editor) - Live (Github-flavored) Markdown Editor
 - [spatools/grunt-nuget](https://github.com/spatools/grunt-nuget) - Grunt NuGet Interface - Create and publish your NuGet packages using GruntJS.
 - [jdorn/json-editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor
