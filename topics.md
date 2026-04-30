@@ -403,6 +403,7 @@
 
 ## microsoft 
 
+- [microsoft/Kerberos-Crypto](https://github.com/microsoft/Kerberos-Crypto) - Tools and information regarding Windows Kerberos cryptography
 - [tomwechsler/Microsoft_Endpoint_Manager](https://github.com/tomwechsler/Microsoft_Endpoint_Manager) - This repo is all about Microsoft Endpoint Manager (Intune and Configuration Manager)!
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
@@ -600,6 +601,7 @@
 
 ## powershell 
 
+- [microsoft/Kerberos-Crypto](https://github.com/microsoft/Kerberos-Crypto) - Tools and information regarding Windows Kerberos cryptography
 - [tomwechsler/Active_Directory_Advanced_Threat_Hunting](https://github.com/tomwechsler/Active_Directory_Advanced_Threat_Hunting) - This repo is about Active Directory Advanced Threat Hunting
 - [techspence/ScriptSentry](https://github.com/techspence/ScriptSentry) - ScriptSentry finds misconfigured and dangerous logon scripts.
 - [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 600+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
@@ -698,6 +700,7 @@
 
 ## windows 
 
+- [microsoft/Kerberos-Crypto](https://github.com/microsoft/Kerberos-Crypto) - Tools and information regarding Windows Kerberos cryptography
 - [tomwechsler/Active_Directory_Advanced_Threat_Hunting](https://github.com/tomwechsler/Active_Directory_Advanced_Threat_Hunting) - This repo is about Active Directory Advanced Threat Hunting
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [microsoft/Git-Credential-Manager-for-Windows](https://github.com/microsoft/Git-Credential-Manager-for-Windows) - Secure Git credential storage for Windows with support for Visual Studio Team Services, GitHub, and Bitbucket multi-factor authentication.
