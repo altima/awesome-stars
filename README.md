@@ -255,6 +255,7 @@
 
 ## PowerShell 
 
+- [microsoft/Kerberos-Crypto](https://github.com/microsoft/Kerberos-Crypto) - Tools and information regarding Windows Kerberos cryptography
 - [guyrleech/Microsoft](https://github.com/guyrleech/Microsoft) - Scripts and tools for use with Microsoft products/technologies
 - [tomwechsler/Active_Directory_Advanced_Threat_Hunting](https://github.com/tomwechsler/Active_Directory_Advanced_Threat_Hunting) - This repo is about Active Directory Advanced Threat Hunting
 - [tomwechsler/Active_Directory_Manage_with_PowerShell](https://github.com/tomwechsler/Active_Directory_Manage_with_PowerShell) - That's what this repo is all about!
