@@ -114,6 +114,7 @@
 
 ## C++ 
 
+- [sinXne0/portapack-police-scanner](https://github.com/sinXne0/portapack-police-scanner) - Police/fire/EMS scanner app for PortaPack HackRF H4M (Mayhem firmware)
 - [pboschi/HCPBridgeMqtt](https://github.com/pboschi/HCPBridgeMqtt) - emulates Hoermann HAP 1 HCP (HCP2) on ESP8622, ESP32 and Arduino.
 - [lxnoid/SomfyIO](https://github.com/lxnoid/SomfyIO) - 
 - [BSI-Bund/RdpCacheStitcher](https://github.com/BSI-Bund/RdpCacheStitcher) - RdpCacheStitcher is a tool that supports forensic analysts in reconstructing useful images out of RDP cache bitmaps.
@@ -179,6 +180,7 @@
 
 ## JavaScript 
 
+- [superbasicstudio/fresh-mayhem](https://github.com/superbasicstudio/fresh-mayhem) - Open-source interactive learning web app for HackRF + PortaPack H4M. Safety guides, app breakdowns, frequency maps, and interactive visualizations.
 - [krestaino/bitprint](https://github.com/krestaino/bitprint) - :closed_lock_with_key: Print your Bitwarden vault.
 - [aymen-mouelhi/ocpp-js](https://github.com/aymen-mouelhi/ocpp-js) - Open Charge Point Protocol Implementation in JS
 - [hopglass/hopglass](https://github.com/hopglass/hopglass) - Visualize the Freifunk Mesh
