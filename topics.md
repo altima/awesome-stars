@@ -58,6 +58,7 @@
 - [js](#js)
 - [kubernetes](#kubernetes)
 - [laravel](#laravel)
+- [learning](#learning)
 - [library](#library)
 - [lua](#lua)
 - [machine-learning](#machine-learning)
@@ -381,6 +382,10 @@
 
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 
+## learning 
+
+- [superbasicstudio/fresh-mayhem](https://github.com/superbasicstudio/fresh-mayhem) - Open-source interactive learning web app for HackRF + PortaPack H4M. Safety guides, app breakdowns, frequency maps, and interactive visualizations.
+
 ## library 
 
 - [nabla-c0d3/sslyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS scanning library.
@@ -445,6 +450,7 @@
 
 ## others 
 
+- [sinXne0/portapack-police-scanner](https://github.com/sinXne0/portapack-police-scanner) - Police/fire/EMS scanner app for PortaPack HackRF H4M (Mayhem firmware)
 - [pboschi/HCPBridgeMqtt](https://github.com/pboschi/HCPBridgeMqtt) - emulates Hoermann HAP 1 HCP (HCP2) on ESP8622, ESP32 and Arduino.
 - [jamesog/tailscale-edgeos](https://github.com/jamesog/tailscale-edgeos) - Running Tailscale on Ubiquiti EdgeOS
 - [guyrleech/Microsoft](https://github.com/guyrleech/Microsoft) - Scripts and tools for use with Microsoft products/technologies
@@ -640,6 +646,7 @@
 
 ## react 
 
+- [superbasicstudio/fresh-mayhem](https://github.com/superbasicstudio/fresh-mayhem) - Open-source interactive learning web app for HackRF + PortaPack H4M. Safety guides, app breakdowns, frequency maps, and interactive visualizations.
 - [krestaino/bitprint](https://github.com/krestaino/bitprint) - :closed_lock_with_key: Print your Bitwarden vault.
 
 ## robotics 
