@@ -450,6 +450,7 @@
 
 ## others 
 
+- [claudusd/terraform-windows-network](https://github.com/claudusd/terraform-windows-network) - Manage windows DHCP and DNS server over Winrm with Terraform
 - [sinXne0/portapack-police-scanner](https://github.com/sinXne0/portapack-police-scanner) - Police/fire/EMS scanner app for PortaPack HackRF H4M (Mayhem firmware)
 - [pboschi/HCPBridgeMqtt](https://github.com/pboschi/HCPBridgeMqtt) - emulates Hoermann HAP 1 HCP (HCP2) on ESP8622, ESP32 and Arduino.
 - [jamesog/tailscale-edgeos](https://github.com/jamesog/tailscale-edgeos) - Running Tailscale on Ubiquiti EdgeOS
