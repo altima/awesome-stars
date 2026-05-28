@@ -144,6 +144,7 @@
 
 ## Go 
 
+- [claudusd/terraform-windows-network](https://github.com/claudusd/terraform-windows-network) - Manage windows DHCP and DNS server over Winrm with Terraform
 - [marevers/pleasant-cli](https://github.com/marevers/pleasant-cli) - A command line interface for Pleasant Password Server
 - [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
