@@ -38,6 +38,7 @@
 
 ## C 
 
+- [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [Yokohama-Miyazawa/RussianRomanizer](https://github.com/Yokohama-Miyazawa/RussianRomanizer) - Arduino, M5Stackでロシア語をラテン文字表記化するプログラム。 Converting Russian text into Latin alphabet notation on Arduino, M5Stack and M5StickC.
