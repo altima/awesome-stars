@@ -216,7 +216,7 @@
 
 ## data 
 
-- [unsplash/datasets](https://github.com/unsplash/datasets) - 🎁  6,500,000+ Unsplash images made available for research and machine learning
+- [unsplash/datasets](https://github.com/unsplash/datasets) - 🎁  7,400,000+ Unsplash images made available for research and machine learning
 
 ## database 
 
@@ -400,7 +400,7 @@
 
 ## machine-learning 
 
-- [unsplash/datasets](https://github.com/unsplash/datasets) - 🎁  6,500,000+ Unsplash images made available for research and machine learning
+- [unsplash/datasets](https://github.com/unsplash/datasets) - 🎁  7,400,000+ Unsplash images made available for research and machine learning
 
 ## macos 
 
@@ -500,7 +500,7 @@
 - [s0md3v/XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
 - [carimura/vista](https://github.com/carimura/vista) - 
 - [hibri/HttpMock](https://github.com/hibri/HttpMock) - A library for creating Http servers on the fly in tests and stubbing responses
-- [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+- [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in an app. Runs on macOS, Linux, and Windows.
 - [Oxalide/vsphere-influxdb-go](https://github.com/Oxalide/vsphere-influxdb-go) - Collect VMware vSphere, vCenter and ESXi performance metrics and send them to InfluxDB
 - [anishj0shi/s4sdkexample](https://github.com/anishj0shi/s4sdkexample) - Usage of S/4HANA SDK for SAP Marketing Cloud
 - [tmbinc/car](https://github.com/tmbinc/car) - 
