@@ -84,6 +84,7 @@
 - [python3](#python3)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
+- [redteam](#redteam)
 - [robotics](#robotics)
 - [security](#security)
 - [server](#server)
@@ -653,6 +654,10 @@
 
 - [superbasicstudio/fresh-mayhem](https://github.com/superbasicstudio/fresh-mayhem) - Open-source interactive learning web app for HackRF + PortaPack H4M. Safety guides, app breakdowns, frequency maps, and interactive visualizations.
 - [krestaino/bitprint](https://github.com/krestaino/bitprint) - :closed_lock_with_key: Print your Bitwarden vault.
+
+## redteam 
+
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
 ## robotics 
 
