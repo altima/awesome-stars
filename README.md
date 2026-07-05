@@ -276,6 +276,7 @@
 
 ## Python 
 
+- [bitwire-it/ipblocklist](https://github.com/bitwire-it/ipblocklist) - IP lists full of bad IPs - Updated every 2H
 - [spyboy-productions/CamXploit](https://github.com/spyboy-productions/CamXploit) - Security reconnaissance and assessment tool for identifying potentially exposed IP cameras by analyzing open ports, service configurations, and common misconfigurations.
 - [nortakales/flipper-zero-tonies](https://github.com/nortakales/flipper-zero-tonies) - 
 - [science-computing/wartungsplan](https://github.com/science-computing/wartungsplan) - A tool to extract events from an ical file by day or day range and perform an action per event like sending an email or opening a ticket
