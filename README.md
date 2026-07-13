@@ -115,6 +115,7 @@
 
 ## C++ 
 
+- [KoStard/ESP32S3-USB-Keyboard-To-BLE](https://github.com/KoStard/ESP32S3-USB-Keyboard-To-BLE) - Add BLE to your USB Keyboard
 - [sinXne0/portapack-police-scanner](https://github.com/sinXne0/portapack-police-scanner) - Police/fire/EMS scanner app for PortaPack HackRF H4M (Mayhem firmware)
 - [pboschi/HCPBridgeMqtt](https://github.com/pboschi/HCPBridgeMqtt) - emulates Hoermann HAP 1 HCP (HCP2) on ESP8622, ESP32 and Arduino.
 - [lxnoid/SomfyIO](https://github.com/lxnoid/SomfyIO) - 
