@@ -161,6 +161,7 @@
 
 ## HTML 
 
+- [junguler/m3u-radio-music-playlists](https://github.com/junguler/m3u-radio-music-playlists) - m3u playlists for radio music, sorted by popularity
 - [ct-Open-Source/team-container](https://github.com/ct-Open-Source/team-container) - A collection of containers to prepare a server for collaboration.
 - [datalog/qrcode-svg](https://github.com/datalog/qrcode-svg) - Pure javascript QR Code generator. Armed with elegant svg path method.
 - [FreifunkVogtland/gluon-firmware-wizard](https://github.com/FreifunkVogtland/gluon-firmware-wizard) - Wizard to select the correct firmware image for your router
@@ -319,7 +320,6 @@
 
 ## Shell 
 
-- [junguler/m3u-radio-music-playlists](https://github.com/junguler/m3u-radio-music-playlists) - m3u playlists for radio music, sorted by popularity
 - [jamesog/tailscale-edgeos](https://github.com/jamesog/tailscale-edgeos) - Running Tailscale on Ubiquiti EdgeOS
 - [olli991/mib-std2-pq-zr-toolbox](https://github.com/olli991/mib-std2-pq-zr-toolbox) - Toolbox for MIB STD2 PQ/ZR Technisat/Preh units.
 - [chaos-consulting/adsberry](https://github.com/chaos-consulting/adsberry) - ADS-B mit dem Raspberry Pi - Chaosconsulting Style
