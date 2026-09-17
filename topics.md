@@ -254,8 +254,8 @@
 - [mono/SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models t
 - [DecaTec/Portable-WebDAV-Library](https://github.com/DecaTec/Portable-WebDAV-Library) - Moved to codeberg.org - https://codeberg.org/DecaTec/Portable-WebDAV-Library - The Portable WebDAV Library is a strongly typed, async WebDAV client library which is fully compliant to RFC 4918, RFC 43
 - [xunit/xunit](https://github.com/xunit/xunit) - xUnit.net is a free, open source, community-focused unit testing tool for .NET.
-- [reactiveui/punchclock](https://github.com/reactiveui/punchclock) - Make sure your asynchronous operations show up to work on time
-- [reactiveui/Fusillade](https://github.com/reactiveui/Fusillade) - An opinionated HTTP library for Mobile Development
+- [reactiveui/punchclock](https://github.com/reactiveui/punchclock) - A library for managing concurrent asynchronous operations in .NET. Provides bounded concurrency, priority scheduling and key-based serialization over a single queue, with Task and IObservable APIs.
+- [reactiveui/Fusillade](https://github.com/reactiveui/Fusillade) - An opinionated HTTP library for .NET applications built on HttpClient message handlers. Provides request de-duplication, prioritised concurrency limiting, speculative background fetching and optional 
 
 ## electron 
 
@@ -332,7 +332,7 @@
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Make your diffs human readable for improved code quality and faster defect detection. :tada:
 - [PrismLibrary/Prism](https://github.com/PrismLibrary/Prism) - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Xamarin Forms, and Uno / Win UI Applications..
-- [reactiveui/splat](https://github.com/reactiveui/splat) - Makes things cross-platform
+- [reactiveui/splat](https://github.com/reactiveui/splat) - Cross-platform building blocks for .NET applications. Provides service location and dependency resolution, logging, platform-neutral images, colours and geometry, and unit test and design mode detecti
 
 ## html 
 
@@ -343,7 +343,7 @@
 - [jczic/MicroWebSrv](https://github.com/jczic/MicroWebSrv) - A micro HTTP Web server that supports WebSockets, html/python language templating and routing handlers, for MicroPython (used on Pycom modules & ESP32)
 - [unosquare/embedio](https://github.com/unosquare/embedio) - A tiny, cross-platform, module based web server for .NET
 - [http-party/http-server](https://github.com/http-party/http-server) - A simple, zero-configuration, command-line http server
-- [reactiveui/Fusillade](https://github.com/reactiveui/Fusillade) - An opinionated HTTP library for Mobile Development
+- [reactiveui/Fusillade](https://github.com/reactiveui/Fusillade) - An opinionated HTTP library for .NET applications built on HttpClient message handlers. Provides request de-duplication, prioritised concurrency limiting, speculative background fetching and optional 
 
 ## image-processing 
 
@@ -422,7 +422,7 @@
 
 ## mobile 
 
-- [reactiveui/Fusillade](https://github.com/reactiveui/Fusillade) - An opinionated HTTP library for Mobile Development
+- [reactiveui/Fusillade](https://github.com/reactiveui/Fusillade) - An opinionated HTTP library for .NET applications built on HttpClient message handlers. Provides request de-duplication, prioritised concurrency limiting, speculative background fetching and optional 
 
 ## monitoring 
 
@@ -751,8 +751,8 @@
 
 - [mono/SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models t
 - [DecaTec/Portable-WebDAV-Library](https://github.com/DecaTec/Portable-WebDAV-Library) - Moved to codeberg.org - https://codeberg.org/DecaTec/Portable-WebDAV-Library - The Portable WebDAV Library is a strongly typed, async WebDAV client library which is fully compliant to RFC 4918, RFC 43
-- [reactiveui/punchclock](https://github.com/reactiveui/punchclock) - Make sure your asynchronous operations show up to work on time
-- [reactiveui/Fusillade](https://github.com/reactiveui/Fusillade) - An opinionated HTTP library for Mobile Development
+- [reactiveui/punchclock](https://github.com/reactiveui/punchclock) - A library for managing concurrent asynchronous operations in .NET. Provides bounded concurrency, priority scheduling and key-based serialization over a single queue, with Task and IObservable APIs.
+- [reactiveui/Fusillade](https://github.com/reactiveui/Fusillade) - An opinionated HTTP library for .NET applications built on HttpClient message handlers. Provides request de-duplication, prioritised concurrency limiting, speculative background fetching and optional 
 
 
 ## License
