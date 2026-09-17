@@ -95,9 +95,9 @@
 - [Windows-XAML/201505-MVA](https://github.com/Windows-XAML/201505-MVA) - 
 - [Bobris/Nowin](https://github.com/Bobris/Nowin) - Owin Web Server in pure .Net
 - [kaikreuzer/openhab.winrt](https://github.com/kaikreuzer/openhab.winrt) - Repository to host openHABs' native Windows client
-- [reactiveui/splat](https://github.com/reactiveui/splat) - Makes things cross-platform
-- [reactiveui/punchclock](https://github.com/reactiveui/punchclock) - Make sure your asynchronous operations show up to work on time
-- [reactiveui/Fusillade](https://github.com/reactiveui/Fusillade) - An opinionated HTTP library for Mobile Development
+- [reactiveui/splat](https://github.com/reactiveui/splat) - Cross-platform building blocks for .NET applications. Provides service location and dependency resolution, logging, platform-neutral images, colours and geometry, and unit test and design mode detecti
+- [reactiveui/punchclock](https://github.com/reactiveui/punchclock) - A library for managing concurrent asynchronous operations in .NET. Provides bounded concurrency, priority scheduling and key-based serialization over a single queue, with Task and IObservable APIs.
+- [reactiveui/Fusillade](https://github.com/reactiveui/Fusillade) - An opinionated HTTP library for .NET applications built on HttpClient message handlers. Provides request de-duplication, prioritised concurrency limiting, speculative background fetching and optional 
 - [timheuer/callisto](https://github.com/timheuer/callisto) - A control toolkit for Windows 8 XAML applications.  Contains some UI controls to make it easier to create Windows UI style apps for the Windows Store in accordance with Windows UI guidelines.
 - [net-shell/dotnet-decompiler](https://github.com/net-shell/dotnet-decompiler) - .NET decompiler/disassembler with editors that allows to change and compile the code back into the assembly
 - [andrecarlucci/mini-biggy](https://github.com/andrecarlucci/mini-biggy) - Biggy got too big, so I created Mini-Biggy.
