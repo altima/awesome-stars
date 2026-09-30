@@ -289,7 +289,7 @@
 - [sbcshop/EnkPi_7.5_Software](https://github.com/sbcshop/EnkPi_7.5_Software) - EnkPi is a series of 4 ePaper displays mounted on PCBs to provide sturdiness and comfort to the users. Powered with Raspberry Pi Pico W, these EnkPi boards have Partial Refresh Support with up to 170 
 - [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Real-time ADS-B notifications for specific aircraft takeoffs and landings. Supports output many platforms.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-- [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) - 
+- [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) - 
 - [olimpo88/PyDDNS](https://github.com/olimpo88/PyDDNS) - Complete system to create your own server ddns
 - [yuppity/unifi-video-api](https://github.com/yuppity/unifi-video-api) - Python API for UniFi Video
 - [dirkjanm/CVE-2020-1472](https://github.com/dirkjanm/CVE-2020-1472) - PoC for Zerologon - all research credits go to Tom Tervoort of Secura
