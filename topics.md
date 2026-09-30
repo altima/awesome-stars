@@ -487,7 +487,7 @@
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [paranoidninja/O365-Doppelganger](https://github.com/paranoidninja/O365-Doppelganger) - A quick handy script to harvest credentials off of a user during a Red Team and get execution of a file from the user
 - [chaos-consulting/adsberry](https://github.com/chaos-consulting/adsberry) - ADS-B mit dem Raspberry Pi - Chaosconsulting Style
-- [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) - 
+- [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) - 
 - [privacyidea/keycloak-provider](https://github.com/privacyidea/keycloak-provider) - :lock: OTP Two Factor Authentication Provider for Keycloak to run with privacyIDEA
 - [chrta/nachtabsenkung_trimatik](https://github.com/chrta/nachtabsenkung_trimatik) - Schaltplan und Firmware einer analogen Fernbedienung zur Nachtabsenkung fuer eine alte Viessmann Trimatik Heizungssteuerung
 - [treydock/puppet-module-keycloak](https://github.com/treydock/puppet-module-keycloak) - 
