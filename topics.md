@@ -101,6 +101,7 @@
 - [vpn](#vpn)
 - [webapp](#webapp)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [wordpress](#wordpress)
 - [xamarin](#xamarin)
 
@@ -743,6 +744,10 @@
 - [mono/SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models t
 - [nextcloud/windows-universal](https://github.com/nextcloud/windows-universal) - 📱 Nextcloud Windows Mobile app
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
+
+## windows-11 
+
+- [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 
 ## wordpress 
 
