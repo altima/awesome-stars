@@ -369,7 +369,7 @@
 
 ## javascript 
 
-- [datalog/qrcode-svg](https://github.com/datalog/qrcode-svg) - Pure javascript QR Code generator. Armed with elegant svg path method.
+- [datalog/qrcode-svg](https://github.com/datalog/qrcode-svg) - QR Code generator. Lightweight, dependency-free, vanilla JavaScript.
 - [ekristen/dns-proxy](https://github.com/ekristen/dns-proxy) - Simple DNS Proxy written in Node.JS. Override hosts, domains, or tlds. Redirect certain domains to different nameservers.
 - [UI5/openui5](https://github.com/UI5/openui5) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice.
 - [RainLoop/rainloop-webmail](https://github.com/RainLoop/rainloop-webmail) - Simple, modern & fast web-based email client
