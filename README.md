@@ -164,7 +164,6 @@
 
 - [junguler/m3u-radio-music-playlists](https://github.com/junguler/m3u-radio-music-playlists) - m3u playlists for radio music, sorted by popularity
 - [ct-Open-Source/team-container](https://github.com/ct-Open-Source/team-container) - A collection of containers to prepare a server for collaboration.
-- [datalog/qrcode-svg](https://github.com/datalog/qrcode-svg) - Pure javascript QR Code generator. Armed with elegant svg path method.
 - [FreifunkVogtland/gluon-firmware-wizard](https://github.com/FreifunkVogtland/gluon-firmware-wizard) - Wizard to select the correct firmware image for your router
 - [voidlabs/mosaico](https://github.com/voidlabs/mosaico) - Mosaico - Responsive Email Template Editor
 
@@ -186,6 +185,7 @@
 ## JavaScript 
 
 - [superbasicstudio/fresh-mayhem](https://github.com/superbasicstudio/fresh-mayhem) - Open-source interactive learning web app for HackRF + PortaPack H4M. Safety guides, app breakdowns, frequency maps, and interactive visualizations.
+- [datalog/qrcode-svg](https://github.com/datalog/qrcode-svg) - QR Code generator. Lightweight, dependency-free, vanilla JavaScript.
 - [krestaino/bitprint](https://github.com/krestaino/bitprint) - :closed_lock_with_key: Print your Bitwarden vault.
 - [aymen-mouelhi/ocpp-js](https://github.com/aymen-mouelhi/ocpp-js) - Open Charge Point Protocol Implementation in JS
 - [hopglass/hopglass](https://github.com/hopglass/hopglass) - Visualize the Freifunk Mesh
