@@ -458,6 +458,7 @@
 
 ## others 
 
+- [ngxson/esp32-usb-to-airprint](https://github.com/ngxson/esp32-usb-to-airprint) - Add AirPrint / AirScan support to your old printer, using just a cheap ESP32-S3
 - [KoStard/ESP32S3-USB-Keyboard-To-BLE](https://github.com/KoStard/ESP32S3-USB-Keyboard-To-BLE) - Add BLE to your USB Keyboard
 - [claudusd/terraform-windows-network](https://github.com/claudusd/terraform-windows-network) - Manage windows DHCP and DNS server over Winrm with Terraform
 - [sinXne0/portapack-police-scanner](https://github.com/sinXne0/portapack-police-scanner) - Police/fire/EMS scanner app for PortaPack HackRF H4M (Mayhem firmware)
