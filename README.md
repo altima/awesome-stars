@@ -38,6 +38,7 @@
 
 ## C 
 
+- [ngxson/esp32-usb-to-airprint](https://github.com/ngxson/esp32-usb-to-airprint) - Add AirPrint / AirScan support to your old printer, using just a cheap ESP32-S3
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [culturally/flipper-zero-airtag](https://github.com/culturally/flipper-zero-airtag) - Spoof Flipper Zero as AirTag
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
