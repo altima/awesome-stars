@@ -37,6 +37,7 @@
 - [electron](#electron)
 - [embedded](#embedded)
 - [esp32](#esp32)
+- [flipperzero](#flipperzero)
 - [framework](#framework)
 - [git](#git)
 - [github](#github)
@@ -271,6 +272,11 @@
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [jczic/MicroWebSrv](https://github.com/jczic/MicroWebSrv) - A micro HTTP Web server that supports WebSockets, html/python language templating and routing handlers, for MicroPython (used on Pycom modules & ESP32)
 
+## flipperzero 
+
+- [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
+- [I-Am-Jakoby/Flipper-Zero-BadUSB](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB) - Repository for my flipper zero badUSB payloads. Now almost entirely plug and play.
+
 ## framework 
 
 - [cefsharp/CefSharp](https://github.com/cefsharp/CefSharp) - .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
@@ -477,14 +483,12 @@
 - [Mebus/cupp](https://github.com/Mebus/cupp) - Common User Passwords Profiler (CUPP)
 - [claudiospizzi/SecurityFever](https://github.com/claudiospizzi/SecurityFever) - PowerShell Module with custom functions and cmdlets related to Windows and application security.
 - [marevers/pleasant-cli](https://github.com/marevers/pleasant-cli) - A command line interface for Pleasant Password Server
-- [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [miakizz/mop3](https://github.com/miakizz/mop3) - A Mastodon to POP3 Gateway
 - [sbcshop/EnkPi_7.5_Software](https://github.com/sbcshop/EnkPi_7.5_Software) - EnkPi is a series of 4 ePaper displays mounted on PCBs to provide sturdiness and comfort to the users. Powered with Raspberry Pi Pico W, these EnkPi boards have Partial Refresh Support with up to 170 
 - [dafthack/MFASweep](https://github.com/dafthack/MFASweep) - A tool for checking if MFA is enabled on multiple Microsoft Services
 - [lxnoid/SomfyIO](https://github.com/lxnoid/SomfyIO) - 
 - [sasiplavnik/Flipper-IRDB](https://github.com/sasiplavnik/Flipper-IRDB) - 
 - [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Real-time ADS-B notifications for specific aircraft takeoffs and landings. Supports output many platforms.
-- [I-Am-Jakoby/Flipper-Zero-BadUSB](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB) - Repository for my flipper zero badUSB payloads. Now almost entirely plug and play.
 - [logickworkshop/Flipper-IRDB](https://github.com/logickworkshop/Flipper-IRDB) - A collective of different IRs for the Flipper
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [paranoidninja/O365-Doppelganger](https://github.com/paranoidninja/O365-Doppelganger) - A quick handy script to harvest credentials off of a user during a Red Team and get execution of a file from the user
