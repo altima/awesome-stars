@@ -77,7 +77,6 @@
 - [Yortw/RSSDP](https://github.com/Yortw/RSSDP) - Really Simple Service Discovery Protocol - a 100% .Net implementation of the SSDP protocol for publishing custom/basic devices, and discovering all device types on a network.
 - [DecaTec/Portable-WebDAV-Library](https://github.com/DecaTec/Portable-WebDAV-Library) - Moved to codeberg.org - https://codeberg.org/DecaTec/Portable-WebDAV-Library - The Portable WebDAV Library is a strongly typed, async WebDAV client library which is fully compliant to RFC 4918, RFC 43
 - [nextcloud/windows-universal](https://github.com/nextcloud/windows-universal) - 📱 Nextcloud Windows Mobile app
-- [DmitryChabanin/xmpp](https://github.com/DmitryChabanin/xmpp) - An XMPP library written for .Net in C#.
 - [ubiety/xmpp](https://github.com/ubiety/xmpp) - An XMPP library written for .Net in C#.
 - [joashc/HaxlSharp](https://github.com/joashc/HaxlSharp) - Automatically concurrent data fetching and request deduplication in C#.
 - [QuinnDamerell/UniversalMarkdown](https://github.com/QuinnDamerell/UniversalMarkdown) - A markdown parsing and rendering library for C# and Windows Universal Apps
