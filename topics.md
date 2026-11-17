@@ -537,7 +537,6 @@
 - [FreifunkVogtland/dns-static](https://github.com/FreifunkVogtland/dns-static) - DNS-Entries for *.ffv
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - qpdf: A content-preserving PDF document transformer
 - [anki/cozmo-python-sdk](https://github.com/anki/cozmo-python-sdk) - Anki Cozmo Python SDK
-- [DmitryChabanin/xmpp](https://github.com/DmitryChabanin/xmpp) - An XMPP library written for .Net in C#.
 - [joashc/HaxlSharp](https://github.com/joashc/HaxlSharp) - Automatically concurrent data fetching and request deduplication in C#.
 - [QuinnDamerell/UniversalMarkdown](https://github.com/QuinnDamerell/UniversalMarkdown) - A markdown parsing and rendering library for C# and Windows Universal Apps
 - [FreifunkVogtland/site-ffv](https://github.com/FreifunkVogtland/site-ffv) - Gluon Site of Freifunk Vogtland
