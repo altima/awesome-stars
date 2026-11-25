@@ -328,7 +328,7 @@
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [voxpupuli/puppet-proxysql](https://github.com/voxpupuli/puppet-proxysql) - Puppet module to configure ProxySQL
 - [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
-- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM and backend for your agents. Remember everything about your friends, family and business relationships.
 - [hedgedoc/container](https://github.com/hedgedoc/container) - HedgeDoc container image resources
 - [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
 - [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
@@ -394,7 +394,7 @@
 
 ## laravel 
 
-- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM and backend for your agents. Remember everything about your friends, family and business relationships.
 
 ## learning 
 
@@ -622,7 +622,7 @@
 
 ## php 
 
-- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM and backend for your agents. Remember everything about your friends, family and business relationships.
 - [RainLoop/rainloop-webmail](https://github.com/RainLoop/rainloop-webmail) - Simple, modern & fast web-based email client
 
 ## postgresql 
